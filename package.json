@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "test",
-    "generate": "TYMLY_PATH=~/development/tymly node ./lib/index"
+    "generate": "set TYMLY_PATH=C:/development/tymly && node lib"
   },
   "repository": {
     "type": "git",
