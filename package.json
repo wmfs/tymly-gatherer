@@ -1,0 +1,31 @@
+{
+  "name": "tymly-gatherer",
+  "version": "1.0.0",
+  "description": "A package to aid in the generation of Tymly docs",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test",
+    "generate": "TYMLY_PATH=~/development/tymly node ./lib/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmfs/tymly-gatherer.git"
+  },
+  "keywords": [
+    "package",
+    "tymly",
+    "docs"
+  ],
+  "author": "Reece Brend",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wmfs/tymly-gatherer/issues"
+  },
+  "homepage": "https://github.com/wmfs/tymly-gatherer#readme",
+  "dependencies": {
+    "glob": "^7.1.3"
+  }
+}
