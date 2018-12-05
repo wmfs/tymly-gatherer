@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "test",
-    "generate": "set TYMLY_PATH=C:/development/tymly && node lib"
+    "generate": "set TYMLY_PATH=C:/development/tymly&& node lib"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/wmfs/tymly-gatherer#readme",
   "dependencies": {
-    "glob": "^7.1.3"
+    "dottie": "2.0.1",
+    "glob": "7.1.3",
+    "glob-promise": "3.4.0"
   }
 }
