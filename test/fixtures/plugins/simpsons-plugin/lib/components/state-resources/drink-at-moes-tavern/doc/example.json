@@ -1,0 +1,9 @@
+{
+  "DrinkAtMoesTavern": {
+    "Type": "Task",
+    "Resource": "module:drinkAtMoesTavern",
+    "ResourceConfig": {
+      "duffQuantity": 6
+    }
+  }
+}

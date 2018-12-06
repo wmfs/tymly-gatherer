@@ -1,0 +1,13 @@
+{
+  "EatAtKrustyBurger": {
+    "Type": "Task",
+    "Resource": "module:eatAtKrustyBurger",
+    "ResourceConfig": {
+      "order": [
+        "Ribwich",
+        "Large Fries",
+        "Large Soda"
+      ]
+    }
+  }
+}
