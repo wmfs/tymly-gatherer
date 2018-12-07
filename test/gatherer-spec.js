@@ -21,7 +21,7 @@ describe('test gatherer functions', function () {
     const stateResources = summary['simpsons-plugin'].stateResources
     const services = summary['simpsons-plugin'].services
 
-    console.log(' >>> ', JSON.stringify(services, null, 2))
+    // console.log(' >>> ', JSON.stringify(services, null, 2))
     expect(summary['simpsons-plugin'].description).to.eql('A plugin for Simpsons related shenanigans')
     expect(Object.keys(stateResources)).to.eql(['drink-at-moes-tavern', 'eat-at-krusty-burger', 'visit-apu-at-kwik-e-mart'])
 
@@ -69,7 +69,22 @@ describe('test gatherer functions', function () {
     })
   })
 
-  // it('should get the service summary from the Simpsons plugin', async () => {
-  //   const summary = await gatherer.listServiceSummary()
-  // })
+  it('should get the service summary from the Simpsons plugin', async () => {
+    const summary = {}
+    await gatherer.listServiceSummary('C:\\development\\tymly-gatherer\\test\\fixtures\\plugins\\*', summary)
+    console.log('SUMMARY: ', summary['simpsons-plugin'].services)
+    expect(Object.keys(summary['simpsons-plugin'].services)).to.eql(['krusty-burger', 'kwik-e-mart', 'moes-tavern'])
+    expect(summary['simpsons-plugin'].services['krusty-burger'].index).to.eql({
+      'description': 'Krusty Burger service',
+      'quote': 'I will personally spit into every fiftieth burger!'
+    })
+    expect(summary['simpsons-plugin'].services['kwik-e-mart'].index).to.eql({
+      'description': 'kwik-e-mart service',
+      'quote': 'Thank you, come again'
+    })
+    expect(summary['simpsons-plugin'].services['moes-tavern'].index).to.eql({
+      'description': 'Moes tavern service',
+      'quote': 'Sounds like you\'re having a rough Christmas. You know what I blame this on the breakdown of? Society.'
+    })
+  })
 })
