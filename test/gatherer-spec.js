@@ -1,7 +1,7 @@
 /* eslint-env mocha */
 
 const expect = require('chai').expect
-const Gatherer = require('../lib/tymly-gatherer')
+const Gatherer = require('../lib/index')
 const gatherer = new Gatherer(
   {
     sourceDir: './test/fixtures',
