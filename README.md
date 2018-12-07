@@ -1,2 +1,78 @@
 # tymly-gatherer
-A package to collate and present the contents of a Tymly repo
+
+> A package to collate and present the contents of a [Tymly](https://github.org/wmfs/tymly) shaped repo
+
+Tymly-gatherer contains a class that exposes multiple methods which can be used to glean information about a _Tymly "shaped" repo_.
+
+**_Tymly shaped repo_**: following the typical Tymly monorepo structure in regards to plugins \
+The example below is based on the test/fixtures/plugins/simpsons-plugin, but many plugins are present in Tymly
+```
+ plugins/
+ └── simpsons-plugin/
+      └── lib/
+           └── components/
+                ├── services/
+                │    ├── krusty-burger/
+                │    │    └── doc
+                │    │         └── index.js
+                │    │         
+                │    ├── kwik-e-mart/
+                │    │     └── doc
+                │    │         └── index.js
+                │    │         
+                │    └── moes-tavern/
+                │          └── doc
+                │              └── index.js
+                │     
+                └── state-resources/
+                     ├── eat-at-krusty-burger/
+                     │    └── doc/
+                     │        ├── example.json
+                     │        └── index.js
+                     │
+                     ├── visit-apu-at-kwik-e-mart/
+                     │    └── doc/
+                     │        ├── example.json
+                     │        └── index.js
+                     │
+                     └── drink-at-moes-tavern/
+                          └── doc/
+                              ├── example.json
+                              └── index.js
+```
+
+**The methods exposed within the Gatherer class are as such:**
+
+> These methods return lists containing what is specified in the title & params
+```
+* listPluginSummary()
+* listStateResourceSummary(pluginsPath, target)
+* listServiceSummary(pluginsPath, target)
+```
+
+> These methods return details surrounding what is specified in the title & params
+```
+getPluginDetail()
+getStateResourceDetail()
+getServiceDetail()
+```
+
+
+## <a name="install"></a> Install
+```
+$ npm install @wmfs/tymly-gatherer --save
+```
+## <a name="install"></a> Testing
+
+> tymly-crypto-plugin only requires an encryption string to be present to run.
+
+```
+$ npm run generate
+```
+
+### Environment Variables
+```
+PLUGINS_PATH=C:/path/to/your/tymly/plugins
+```
+
+
