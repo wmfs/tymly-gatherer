@@ -15,6 +15,7 @@ const gatherer = new Gatherer(
 
 describe('test gatherer functions', function () {
   this.timeout(process.env.TIMEOUT || 5000)
+  const pluginsPath = process.env.PLUGINS_PATH
 
   it('should get the plugin summary from the Simpsons plugin', async () => {
     const summary = await gatherer.listPluginSummary()
@@ -71,7 +72,7 @@ describe('test gatherer functions', function () {
 
   it('should get the service summary from the Simpsons plugin', async () => {
     const summary = {}
-    await gatherer.listServiceSummary('C:\\development\\tymly-gatherer\\test\\fixtures\\plugins\\*', summary)
+    await gatherer.listServiceSummary(pluginsPath, summary)
     console.log('SUMMARY: ', summary['simpsons-plugin'].services)
     expect(Object.keys(summary['simpsons-plugin'].services)).to.eql(['krusty-burger', 'kwik-e-mart', 'moes-tavern'])
     expect(summary['simpsons-plugin'].services['krusty-burger'].index).to.eql({
@@ -87,4 +88,6 @@ describe('test gatherer functions', function () {
       'quote': 'Sounds like you\'re having a rough Christmas. You know what I blame this on the breakdown of? Society.'
     })
   })
+
+  it('should ')
 })
