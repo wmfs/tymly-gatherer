@@ -73,7 +73,6 @@ describe('test gatherer functions', function () {
   it('should get the service summary from the Simpsons plugin', async () => {
     const summary = {}
     await gatherer.listServiceSummary(pluginsPath, summary)
-    console.log('SUMMARY: ', summary['simpsons-plugin'].services)
     expect(Object.keys(summary['simpsons-plugin'].services)).to.eql(['krusty-burger', 'kwik-e-mart', 'moes-tavern'])
     expect(summary['simpsons-plugin'].services['krusty-burger'].index).to.eql({
       'description': 'Krusty Burger service',
@@ -89,5 +88,37 @@ describe('test gatherer functions', function () {
     })
   })
 
-  it('should ')
+  it('should get the state resource summary from the simpsons plugin', async () => {
+    const summary = {}
+    await gatherer.listStateResourceSummary(pluginsPath, summary)
+
+    expect(summary['simpsons-plugin'].stateResources['drink-at-moes-tavern'].example).to.eql({
+      'DrinkAtMoesTavern': {
+        'Type': 'Task',
+        'Resource': 'module:drinkAtMoesTavern',
+        'ResourceConfig': {
+          'duffQuantity': 6
+        }
+      }
+    })
+    expect(summary['simpsons-plugin'].stateResources['drink-at-moes-tavern'].description).to.eql('Visit Moe\'s for an ice cold Duff')
+
+    expect(summary['simpsons-plugin'].stateResources['eat-at-krusty-burger'].example).to.eql({
+      'EatAtKrustyBurger': {
+        'Type': 'Task',
+        'Resource': 'module:eatAtKrustyBurger',
+        'ResourceConfig': {
+          'order': [
+            'Ribwich',
+            'Large Fries',
+            'Large Soda'
+          ]
+        }
+      }
+    })
+    expect(summary['simpsons-plugin'].stateResources['eat-at-krusty-burger'].description).to.eql('Visit Krusty Burger and order a Ribwich™')
+
+    expect(summary['simpsons-plugin'].stateResources['visit-apu-at-kwik-e-mart'].example).to.eql(undefined)
+    expect(summary['simpsons-plugin'].stateResources['visit-apu-at-kwik-e-mart'].description).to.eql('Go to the Kwik-E-Mart and buy some ice (May or may not contain Bobo)')
+  })
 })
