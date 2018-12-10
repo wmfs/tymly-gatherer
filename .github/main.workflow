@@ -1,6 +1,9 @@
 workflow "Build, Test, and Publish" {
   on = "push"
-  resolves = ["Publish"]
+  resolves = [
+    "Test",
+    "Publish",
+  ]
 }
 
 action "Build" {
@@ -20,8 +23,6 @@ action "Test" {
 action "Publish" {
   uses = "actions/npm@master"
   args = "publish --access restricted"
-  secrets = [
-    "NPM_TOKEN",
-  ]
   needs = ["Test"]
+  secrets = ["NPM_AUTH_TOKEN"]
 }
