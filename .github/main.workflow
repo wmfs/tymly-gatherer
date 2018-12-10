@@ -13,15 +13,15 @@ action "Test" {
   uses = "actions/npm@master"
   args = "test"
   env = {
-    PLUGINS_PATH = "./tymly-gatherer/test/fixtures/plugins/*"
+    PLUGINS_PATH = "./test/fixtures/plugins/*"
   }
 }
 
 action "Publish" {
-  needs = "Test"
   uses = "actions/npm@master"
   args = "publish --access public"
   secrets = [
     "NPM_TOKEN",
   ]
+  needs = ["Test"]
 }
