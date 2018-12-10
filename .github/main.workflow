@@ -12,6 +12,9 @@ action "Test" {
   needs = "Build"
   uses = "actions/npm@master"
   args = "test"
+  env = {
+    PLUGINS_PATH = "./tymly-gatherer/test/fixtures/plugins/*"
+  }
 }
 
 action "Publish" {
