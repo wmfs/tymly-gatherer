@@ -13,7 +13,7 @@ action "Test" {
   uses = "actions/npm@master"
   args = "test"
   env = {
-    PLUGINS_PATH = "**/plugins/*"
+    PLUGINS_PATH = "./test/fixtures/plugins/*"
   }
 }
 
