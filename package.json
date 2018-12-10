@@ -1,5 +1,5 @@
 {
-  "name": "tymly-gatherer",
+  "name": "@wmfs/tymly-gatherer",
   "version": "1.0.0",
   "description": "A package to aid in the generation of Tymly docs",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wmfs/tymly-gatherer.git"
+    "url": "https://github.com/wmfs/tymly-gatherer.git"
   },
   "keywords": [
     "package",
