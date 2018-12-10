@@ -19,7 +19,7 @@ action "Test" {
 
 action "Publish" {
   uses = "actions/npm@master"
-  args = "publish --access public"
+  args = "publish --access restricted"
   secrets = [
     "NPM_TOKEN",
   ]
