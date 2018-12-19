@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/wmfs/tymly-gatherer/issues"
   },
-  "main": "index.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib"
   },
