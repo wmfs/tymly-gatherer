@@ -1,7 +1,7 @@
 {
   "name": "@wmfs/tymly-gatherer",
   "version": "0.0.0-semantically-released",
-  "description": "A package to aid in the generation of Tymly docs",
+  "description": "A package to colled data about Tymly plugins",
   "author": "West Midlands Fire Service",
   "homepage": "https://github.com/wmfs/tymly-gatherer#readme",
   "keywords": [
