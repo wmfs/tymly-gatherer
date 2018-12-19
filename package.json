@@ -39,7 +39,6 @@
     "@semantic-release/git": "7.0.5"
   },
   "scripts": {
-    "generate": "set TYMLY_PATH=C:/development/tymly&& node lib",
     "test": "nyc mocha && standard",
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "semantic-release": "semantic-release"

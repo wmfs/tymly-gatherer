@@ -2,20 +2,26 @@
 
 const expect = require('chai').expect
 const Gatherer = require('../lib/index')
-const gatherer = new Gatherer(
-  {
-    sourceDir: './test/fixtures',
-    config: {
-      plugins: true,
-      stateResources: true,
-      services: true
-    }
-  }
-)
+const path = require('path')
 
 describe('test gatherer functions', function () {
   this.timeout(process.env.TIMEOUT || 5000)
-  const pluginsPath = process.env.PLUGINS_PATH
+
+  let gatherer
+  const sourceDir = path.join(__dirname, 'fixtures')
+
+  it('should get a new Gatherer instance', async () => {
+    gatherer = new Gatherer(
+      {
+        sourceDir: sourceDir,
+        config: {
+          plugins: true,
+          stateResources: true,
+          services: true
+        }
+      }
+    )
+  })
 
   it('should get the plugin summary from the Simpsons plugin', async () => {
     const summary = await gatherer.listPluginSummary()
@@ -72,7 +78,7 @@ describe('test gatherer functions', function () {
 
   it('should get the service summary from the Simpsons plugin', async () => {
     const summary = {}
-    await gatherer.listServiceSummary(pluginsPath, summary)
+    await gatherer.listServiceSummary(path.join(sourceDir, 'plugins', '*'), summary)
     expect(Object.keys(summary['simpsons-plugin'].services)).to.eql(['krusty-burger', 'kwik-e-mart', 'moes-tavern'])
     expect(summary['simpsons-plugin'].services['krusty-burger'].index).to.eql({
       'description': 'Krusty Burger service',
@@ -90,7 +96,7 @@ describe('test gatherer functions', function () {
 
   it('should get the state resource summary from the simpsons plugin', async () => {
     const summary = {}
-    await gatherer.listStateResourceSummary(pluginsPath, summary)
+    await gatherer.listStateResourceSummary(path.join(sourceDir, 'plugins', '*'), summary)
 
     expect(summary['simpsons-plugin'].stateResources['drink-at-moes-tavern'].example).to.eql({
       'DrinkAtMoesTavern': {

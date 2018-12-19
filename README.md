@@ -1,10 +1,9 @@
-# tymly-gatherer 
+# tymly-gatherer
 
 [![Build Status](https://travis-ci.com/wmfs/tymly-gatherer.svg?token=nmm9if9qp6sBNJ5PjroH&branch=master)](https://travis-ci.com/wmfs/safe-and-well-blueprint)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/wmfs/tymly-gatherer/LICENSE)
-
 
 > A package to collate and present the contents of a [Tymly](https://github.org/wmfs/tymly) shaped repo
 
@@ -21,15 +20,15 @@ The example below is based on the test/fixtures/plugins/simpsons-plugin, but man
                 │    ├── krusty-burger/
                 │    │    └── doc
                 │    │         └── index.js
-                │    │         
+                │    │
                 │    ├── kwik-e-mart/
                 │    │     └── doc
                 │    │         └── index.js
-                │    │         
+                │    │
                 │    └── moes-tavern/
                 │          └── doc
                 │              └── index.js
-                │     
+                │
                 └── state-resources/
                      ├── eat-at-krusty-burger/
                      │    └── doc/
@@ -68,17 +67,7 @@ getServiceDetail()
 ```
 $ npm install @wmfs/tymly-gatherer --save
 ```
-## <a name="install"></a> Testing
-
-> tymly-crypto-plugin only requires an encryption string to be present to run.
-
-```
-$ npm run generate
-```
-
-### Environment Variables
-```
-PLUGINS_PATH=C:/path/to/your/tymly/plugins
-```
 
 
+## <a name='license'></a>License
+[MIT](https://github.com/wmfs/tymly-gatherer/blob/master/LICENSE)
