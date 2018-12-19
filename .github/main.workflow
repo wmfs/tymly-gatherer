@@ -22,7 +22,7 @@ action "Test" {
 
 action "Publish" {
   uses = "actions/npm@master"
-  args = "publish --access restricted"
+  args = "publish --access public"
   needs = ["Test"]
   secrets = ["NPM_AUTH_TOKEN"]
 }
