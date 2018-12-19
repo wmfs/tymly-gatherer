@@ -1,4 +1,4 @@
-# tymly-gatherer
+# tymly-gatherer 
 
 [![Build Status](https://travis-ci.com/wmfs/tymly-gatherer.svg?token=nmm9if9qp6sBNJ5PjroH&branch=master)](https://travis-ci.com/wmfs/safe-and-well-blueprint)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
