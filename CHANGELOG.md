@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/wmfs/tymly-gatherer/compare/v1.0.0...v1.0.1) (2018-12-19)
+
+
+### 🐛 Bug Fixes
+
+* update semantic-release version ([5d5f003](https://github.com/wmfs/tymly-gatherer/commit/5d5f003))
+
 # 1.0.0 (2018-12-19)
 
 
