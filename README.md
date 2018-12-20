@@ -7,6 +7,18 @@
 
 > A package to collate and present the contents of a [Tymly](https://github.org/wmfs/tymly) shaped repo
 
+# Installation
+
+``` bash
+npm install @wmfs/tymly-gatherer --save
+```
+
+# Environment variables
+
+| Env variable | Notes |
+| -------------| ----- |
+| `DEBUG`      | Set it to `tymly-gatherer` to see what's going on.
+
 Tymly-gatherer contains a class that exposes multiple methods which can be used to glean information about a _Tymly "shaped" repo_.
 
 **_Tymly shaped repo_**: following the typical Tymly monorepo structure in regards to plugins \
