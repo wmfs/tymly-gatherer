@@ -62,12 +62,26 @@ getStateResourceDetail()
 getServiceDetail()
 ```
 
-
 ## <a name="install"></a> Install
 ```
 $ npm install @wmfs/tymly-gatherer --save
 ```
 
+## <a name="Usage"></a> Usage
+```
+const Gatherer = require('@wmfs/tymly-gatherer')
+
+gatherer = new Gatherer(
+      {
+        sourceDir: 'path/to/source',
+        config: {
+          plugins: true,
+          stateResources: true,
+          services: true
+        }
+      }
+    )
+```
 
 ## <a name='license'></a>License
 [MIT](https://github.com/wmfs/tymly-gatherer/blob/master/LICENSE)
