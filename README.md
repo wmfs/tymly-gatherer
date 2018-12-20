@@ -17,7 +17,7 @@ npm install @wmfs/tymly-gatherer --save
 ```
 const Gatherer = require('@wmfs/tymly-gatherer')
 
-meta = new Gatherer(
+const meta = new Gatherer(
   {
     tymlyDir: 'c:/development/tymly',
     cardscriptSchemaPath: '/cardscript/packages/cardscript-schema/lib/schema.json',
