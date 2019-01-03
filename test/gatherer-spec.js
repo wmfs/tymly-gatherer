@@ -20,5 +20,10 @@ describe('Test gatherer functions', function () {
     )
   })
 
+  it('should run the collect function on the Gatherer', async () => {
+    const output = await gatherer.collect()
+    console.log('output: ', output)
+  })
+
 
 })
