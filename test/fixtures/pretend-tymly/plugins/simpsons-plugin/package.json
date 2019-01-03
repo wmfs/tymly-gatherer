@@ -1,4 +1,5 @@
 {
   "name": "simpsons-plugin",
-  "description": "A plugin for Simpsons related shenanigans"
+  "description": "A plugin for Simpsons related shenanigans",
+  "version": 1.0
 }
