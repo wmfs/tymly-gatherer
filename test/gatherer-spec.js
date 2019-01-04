@@ -15,7 +15,7 @@ describe('Test gatherer functions', function () {
         tymlyRootPath: path.resolve(__dirname, './fixtures/pretend-tymly'),
         cardscriptRootPath: path.resolve(__dirname, './fixtures/pretend-cardscript'),
         assetsOutputRootDir: path.resolve(__dirname, './output'),
-        pluginVersionSource: 'npm'
+        pluginVersionSource: 'local'
       }
     )
   })
