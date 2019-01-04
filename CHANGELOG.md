@@ -1,3 +1,42 @@
+# [1.1.0](https://github.com/wmfs/tymly-gatherer/compare/v1.0.2...v1.1.0) (2019-01-04)
+
+
+### ✨ Features
+
+* getPluginPackageJson implementation ([f3f33dc](https://github.com/wmfs/tymly-gatherer/commit/f3f33dc))
+* implementation for getPluginServices ([7f22588](https://github.com/wmfs/tymly-gatherer/commit/7f22588))
+* start implementation for collect function ([2d643d0](https://github.com/wmfs/tymly-gatherer/commit/2d643d0))
+
+
+### 🐛 Bug Fixes
+
+* all the standard fixes ever ([fa663aa](https://github.com/wmfs/tymly-gatherer/commit/fa663aa))
+* final standard fix I promise p.s. can you tell my linter isn't working? ([ccb9f4b](https://github.com/wmfs/tymly-gatherer/commit/ccb9f4b))
+* standard changes [#2](https://github.com/wmfs/tymly-gatherer/issues/2) ([c663955](https://github.com/wmfs/tymly-gatherer/commit/c663955))
+* switch pluginVersionSource to local for tests ([c374974](https://github.com/wmfs/tymly-gatherer/commit/c374974))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([bd05282](https://github.com/wmfs/tymly-gatherer/commit/bd05282))
+
+
+### 📦 Code Refactoring
+
+* refactor for getting package.json & implementation for getting version from local package.json ([4450cf8](https://github.com/wmfs/tymly-gatherer/commit/4450cf8))
+* rename plugins -> pluginPaths && plugins -> pluginDirPaths to clarify that these are paths ([3483834](https://github.com/wmfs/tymly-gatherer/commit/3483834))
+* replace functionality containing '.split('/')' to use path.basename to avoid OS issues ([69bf4b7](https://github.com/wmfs/tymly-gatherer/commit/69bf4b7))
+
+
+### 📚 Documentation
+
+* README update ([1018ebb](https://github.com/wmfs/tymly-gatherer/commit/1018ebb))
+
+
+### ♻️ Chores
+
+* update package.json with mock version ([b886881](https://github.com/wmfs/tymly-gatherer/commit/b886881))
+
 ## [1.0.2](https://github.com/wmfs/tymly-gatherer/compare/v1.0.1...v1.0.2) (2018-12-19)
 
 
