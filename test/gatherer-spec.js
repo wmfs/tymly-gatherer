@@ -1,6 +1,6 @@
 /* eslint-env mocha */
 
-const expect = require('chai').expect
+// const expect = require('chai').expect
 const Gatherer = require('../lib/index')
 const path = require('path')
 
@@ -22,8 +22,6 @@ describe('Test gatherer functions', function () {
 
   it('should run the collect function on the Gatherer', async () => {
     const output = await gatherer.collect()
-    console.log('output: ', output)
+    console.log('output: ', JSON.stringify(output, null, 2))
   })
-
-
 })
