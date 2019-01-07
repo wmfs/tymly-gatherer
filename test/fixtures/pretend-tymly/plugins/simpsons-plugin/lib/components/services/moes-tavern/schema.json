@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "order": {
+      "type": "string",
+      "description": "What are you drinking?"
+    }
+  },
+  "required": []
+}
