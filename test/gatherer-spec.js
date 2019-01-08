@@ -4,8 +4,10 @@ const expect = require('chai').expect
 const Gatherer = require('../lib/index')
 const path = require('path')
 
-const pluginName = 'simpsons-plugin'
-const pluginPath = path.join(__dirname, 'fixtures', 'pretend-tymly', 'plugins', pluginName)
+const pluginNameSimpsons = 'simpsons-plugin'
+const pluginPathSimpsons = path.join(__dirname, 'fixtures', 'pretend-tymly', 'plugins', pluginNameSimpsons)
+const pluginNameFuturama = 'futurama-plugin'
+const pluginPathFuturama = path.join(__dirname, 'fixtures', 'pretend-tymly', 'plugins', pluginNameFuturama)
 
 describe('Test gatherer functions', function () {
   this.timeout(process.env.TIMEOUT || 5000)
@@ -23,10 +25,11 @@ describe('Test gatherer functions', function () {
     )
   })
 
-  it('should get a services list for fixtures tymly', async () => {
-    const services = await gatherer.getPluginServices(pluginName, pluginPath)
+  xit('should get a services list for fixtures tymly (simpsons plugin)', async () => {
+    const messages = []
+    const services = await gatherer.getPluginServices(pluginNameSimpsons, pluginPathSimpsons, messages)
     for (const service of services) {
-      console.log('***', JSON.stringify(service, null, 2))
+      // console.log('***', JSON.stringify(service, null, 2))
       expect(['krusty-burger', 'kwik-e-mart', 'springfield-elementary', 'moes-tavern'].includes(service.name))
       expect(service.docs).to.not.eql(undefined)
       if (service.name === 'krusty-burger') {
@@ -106,6 +109,19 @@ describe('Test gatherer functions', function () {
         )
       }
     }
+  })
+
+  it('should get a state resources list for fixtures tymly (simpsons plugin)', async () => {
+    const messages = []
+    const stateResources = await gatherer.getPluginStateResources(pluginNameSimpsons, pluginPathSimpsons, messages)
+    console.log('STATE RESOURCES: ', stateResources)
+  })
+
+  xit('should get a services list for fixtures tymly (futurama plugin)', async () => {
+    const messages = []
+    const services = await gatherer.getPluginServices(pluginNameFuturama, pluginPathFuturama, messages)
+    expect(services).to.eql([])
+    expect(messages[0]).to.eql('No services found in futurama-plugin')
   })
 
   xit('should run the collect function on the Gatherer', async () => {
