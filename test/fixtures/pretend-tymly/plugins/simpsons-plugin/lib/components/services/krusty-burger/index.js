@@ -1,3 +1,4 @@
-module.exports = () => {
-  console.log('Welcome to Krusty Burger, may I take your order?')
+module.exports = {
+  bootAfter: ['moes-tavern'],
+  schema: {'schema': 'this could be schema'}
 }

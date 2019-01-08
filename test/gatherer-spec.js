@@ -32,6 +32,10 @@ describe('Test gatherer functions', function () {
       if (service.name === 'krusty-burger') {
         expect(service).to.eql(
           {
+            'bootAfter': [
+              'moes-tavern'
+            ],
+            'bootBefore': 'Boot before property not found',
             name: 'krusty-burger',
             nameCamel: 'krustyBurger',
             pluginName: 'simpsons-plugin',
@@ -40,6 +44,10 @@ describe('Test gatherer functions', function () {
                 description: 'Krusty Burger service',
                 quote: 'I will personally spit into every fiftieth burger!'
               }
+            },
+            'refProperties': 'Ref properties not found',
+            'schema': {
+              'schema': 'this could be schema'
             }
           }
         )
