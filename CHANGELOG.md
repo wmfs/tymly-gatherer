@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/wmfs/tymly-gatherer/compare/v1.3.0...v1.4.0) (2019-01-10)
+
+
+### ✨ Features
+
+* beginnings of generateDocumentation function ([2b1462f](https://github.com/wmfs/tymly-gatherer/commit/2b1462f))
+
+
+### 📦 Code Refactoring
+
+* plugins is now an object so it is 'searchable' ([bf114f5](https://github.com/wmfs/tymly-gatherer/commit/bf114f5))
+
 # [1.3.0](https://github.com/wmfs/tymly-gatherer/compare/v1.2.0...v1.3.0) (2019-01-10)
 
 
