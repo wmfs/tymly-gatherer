@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/wmfs/tymly-gatherer/compare/v1.2.0...v1.3.0) (2019-01-10)
+
+
+### ✨ Features
+
+* write to file ([679bfcf](https://github.com/wmfs/tymly-gatherer/commit/679bfcf))
+
 # [1.2.0](https://github.com/wmfs/tymly-gatherer/compare/v1.1.0...v1.2.0) (2019-01-10)
 
 
