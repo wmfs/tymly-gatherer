@@ -1,3 +1,24 @@
+# [1.2.0](https://github.com/wmfs/tymly-gatherer/compare/v1.1.0...v1.2.0) (2019-01-10)
+
+
+### ✨ Features
+
+* add errors to collectionMessages as well as debug ([f5b3193](https://github.com/wmfs/tymly-gatherer/commit/f5b3193))
+* implementation for getStateResource() & add futurama plugin to check for collectionMessages in empty plugins ([657ae1e](https://github.com/wmfs/tymly-gatherer/commit/657ae1e))
+* implementation of getMainIndex() function & update tests ([dcd6813](https://github.com/wmfs/tymly-gatherer/commit/dcd6813))
+* services implementation with supporting tests ([b0a7019](https://github.com/wmfs/tymly-gatherer/commit/b0a7019))
+
+
+### 🐛 Bug Fixes
+
+* formatting & standard ([b757d1b](https://github.com/wmfs/tymly-gatherer/commit/b757d1b))
+* more collectionMessage changes and start of state resource implementation ([4873134](https://github.com/wmfs/tymly-gatherer/commit/4873134))
+
+
+### 🚨 Tests
+
+* bulk up pretend-tymly for better testing ([d9216e9](https://github.com/wmfs/tymly-gatherer/commit/d9216e9))
+
 # [1.1.0](https://github.com/wmfs/tymly-gatherer/compare/v1.0.2...v1.1.0) (2019-01-04)
 
 
