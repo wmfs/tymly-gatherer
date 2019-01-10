@@ -25,7 +25,7 @@ describe('Test gatherer functions', function () {
     )
   })
 
-  it('should get a services list for fixtures tymly (simpsons plugin)', async () => {
+  xit('should get a services list for fixtures tymly (simpsons plugin)', async () => {
     const messages = []
     const services = await gatherer.getPluginServices(pluginNameSimpsons, pluginPathSimpsons, messages)
     for (const service of services) {
@@ -111,7 +111,7 @@ describe('Test gatherer functions', function () {
     }
   })
 
-  it('should get a state resources list for fixtures tymly (simpsons plugin)', async () => {
+  xit('should get a state resources list for fixtures tymly (simpsons plugin)', async () => {
     const messages = []
     const stateResources = await gatherer.getPluginStateResources(pluginNameSimpsons, pluginPathSimpsons, messages)
     // console.log('STATE RESOURCES: ', JSON.stringify(stateResources, null, 2))
@@ -122,15 +122,40 @@ describe('Test gatherer functions', function () {
     console.log('messages: ', messages)
   })
 
-  it('should get a services list for fixtures tymly (futurama plugin)', async () => {
+  xit('should get a services list for fixtures tymly (futurama plugin)', async () => {
     const messages = []
     const services = await gatherer.getPluginServices(pluginNameFuturama, pluginPathFuturama, messages)
     expect(services).to.eql([])
     expect(messages[0]).to.eql('No services found in futurama-plugin')
   })
 
-  it('should run the collect function on the Gatherer', async () => {
-    const output = await gatherer.collect()
-    console.log('output: ', JSON.stringify(output, null, 2))
+  it('should get a state-resources list for fixtures tymly (futurama plugin)', async () => {
+    const messages = []
+    const services = await gatherer.getPluginStateResources(pluginNameFuturama, pluginPathFuturama, messages)
+    expect(services).to.eql([])
+    expect(messages[0]).to.eql('No state-resources found in futurama-plugin')
   })
+
+  it('should run the collect function on the Gatherer', async () => {
+    await gatherer.collect()
+    await gatherer.writeToFile(
+      {
+        outputFilePath: 'C:\\development\\tymly\\packages\\tymly-gatherer\\test\\output\\gathered-info.json'
+      }
+    )
+    // console.log('output: ', JSON.stringify(output, null, 2))
+  })
+
+  // it('should run generateDocumentation function for a plugin', async () => {
+  //   const pluginName = 'simpsons-plugin'
+  //   const indexContent = gatherer.getPlugin({ pluginName })
+  //   const outputFilePath = `C:\\development\\tymly\\packages\\tymly-gatherer\\test\\output\\${pluginName}.md`
+  //
+  //   await gatherer.generateDocumentation(
+  //     indexContent,
+  //     {
+  //       outputFilePath
+  //     }
+  //   )
+  // })
 })
