@@ -171,7 +171,6 @@ describe('Test gatherer functions', function () {
     const doc = fs.readFileSync(path.join(outputDirPath, outputFile)).toString()
     expect(doc.includes('## counterOrder'))
     expect(doc.includes('## driveThruOrder'))
-    expect(messages.length).to.eql(0)
   })
 
   it('should run generateDocumentation function for a service without JSDocs and receive some warnings', async () => {
