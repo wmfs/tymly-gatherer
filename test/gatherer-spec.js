@@ -25,7 +25,7 @@ describe('Test gatherer functions', function () {
     )
   })
 
-  xit('should get a services list for fixtures tymly (simpsons plugin)', async () => {
+  it('should get a services list for fixtures tymly (simpsons plugin)', async () => {
     const messages = []
     const services = await gatherer.getPluginServices(pluginNameSimpsons, pluginPathSimpsons, messages)
     for (const service of services) {
@@ -114,17 +114,22 @@ describe('Test gatherer functions', function () {
   it('should get a state resources list for fixtures tymly (simpsons plugin)', async () => {
     const messages = []
     const stateResources = await gatherer.getPluginStateResources(pluginNameSimpsons, pluginPathSimpsons, messages)
-    console.log('STATE RESOURCES: ', stateResources)
+    // console.log('STATE RESOURCES: ', JSON.stringify(stateResources, null, 2))
+    for (const stateResource of stateResources) {
+      expect(['drink-at-moes-tavern', 'eat-at-krusty-burger', 'visit-apu-at-kwik-e-mart'].includes(stateResource.name))
+    }
+
+    console.log('messages: ', messages)
   })
 
-  xit('should get a services list for fixtures tymly (futurama plugin)', async () => {
+  it('should get a services list for fixtures tymly (futurama plugin)', async () => {
     const messages = []
     const services = await gatherer.getPluginServices(pluginNameFuturama, pluginPathFuturama, messages)
     expect(services).to.eql([])
     expect(messages[0]).to.eql('No services found in futurama-plugin')
   })
 
-  xit('should run the collect function on the Gatherer', async () => {
+  it('should run the collect function on the Gatherer', async () => {
     const output = await gatherer.collect()
     console.log('output: ', JSON.stringify(output, null, 2))
   })
