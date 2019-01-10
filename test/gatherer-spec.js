@@ -115,6 +115,10 @@ describe('Test gatherer functions', function () {
         )
       }
     }
+    expect(messages.length).to.eql(2)
+    for (const message of messages) {
+      expect(message.includes('Problem getting main index.js file for service'))
+    }
   })
 
   it('should get a state resources list for fixtures tymly (simpsons plugin)', async () => {
@@ -125,7 +129,10 @@ describe('Test gatherer functions', function () {
       expect(['drink-at-moes-tavern', 'eat-at-krusty-burger', 'visit-apu-at-kwik-e-mart'].includes(stateResource.name))
     }
 
-    console.log('messages: ', messages)
+    expect(messages.length).to.eql(3)
+    for (const message of messages) {
+      expect(message.includes('Problem getting main index.js file for state-resource:'))
+    }
   })
 
   it('should get a services list for fixtures tymly (futurama plugin)', async () => {
