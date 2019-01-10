@@ -1,3 +1,20 @@
+# [1.5.0](https://github.com/wmfs/tymly-gatherer/compare/v1.4.0...v1.5.0) (2019-01-10)
+
+
+### ✨ Features
+
+* add checks for missing JSDocs and test updates ([1143243](https://github.com/wmfs/tymly-gatherer/commit/1143243))
+
+
+### 🐛 Bug Fixes
+
+* formatting ([8269457](https://github.com/wmfs/tymly-gatherer/commit/8269457))
+
+
+### 🚨 Tests
+
+* remove expect for now ([8926024](https://github.com/wmfs/tymly-gatherer/commit/8926024))
+
 # [1.4.0](https://github.com/wmfs/tymly-gatherer/compare/v1.3.0...v1.4.0) (2019-01-10)
 
 
