@@ -29,7 +29,7 @@
     "glob-promise": "3.4.0",
     "lodash.camelcase": "4.3.0",
     "lodash.set": "4.3.2",
-    "vue-template-compiler": "2.5.17"
+    "vue-template-compiler": "2.5.21"
   },
   "devDependencies": {
     "chai": "4.2.0",
