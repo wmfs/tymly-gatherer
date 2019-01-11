@@ -34,7 +34,7 @@ module.exports = class Index {
   }
 
   async listPluginSummary () {
-    console.log('\n\nGathering plugin data:')
+    console.log('\r\nGathering plugin data:')
     const pluginSummary = {}
     const pluginsPath = path.resolve(this.sourceDir, 'plugins', '*')
     const pluginDirPaths = await glob(pluginsPath)
@@ -85,7 +85,7 @@ module.exports = class Index {
             dottie.set(stateResourceDetail, `${stateResourceName}.example`, docContents, { force: true })
         }
       } catch (e) {
-        console.error(`Something went wrong! \n----------------\n${e}\n\n`)
+        console.error(`Something went wrong! \n----------------\n${e}\r\n`)
       }
     }
     return stateResourceDetail
