@@ -48,10 +48,8 @@ describe('Test gatherer functions', function () {
             nameCamel: 'krustyBurger',
             pluginName: 'simpsons-plugin',
             docs: {
-              index: {
-                description: 'Krusty Burger service',
-                quote: 'I will personally spit into every fiftieth burger!'
-              }
+              description: 'Krusty Burger service',
+              quote: 'I will personally spit into every fiftieth burger!'
             },
             'refProperties': 'Ref properties not found',
             'schema': {
@@ -66,27 +64,17 @@ describe('Test gatherer functions', function () {
             'name': 'kwik-e-mart',
             'nameCamel': 'kwikEMart',
             'pluginName': 'simpsons-plugin',
-            'docs': {
-              'example': {
-                'groceries': {
-                  'list': [
+            docs: {
+              description: 'kwik-e-mart service',
+              example: {
+                groceries: {
+                  list: [
                     'bread',
                     'duff beer'
                   ]
                 }
               },
-              'index': {
-                'description': 'kwik-e-mart service',
-                'quote': 'Thank you, come again',
-                'example': {
-                  'groceries': {
-                    'list': [
-                      'bread',
-                      'duff beer'
-                    ]
-                  }
-                }
-              }
+              'quote': 'Thank you, come again'
             }
           }
         )
@@ -107,10 +95,8 @@ describe('Test gatherer functions', function () {
             'bootAfter': 'Boot after property not found',
             'bootBefore': 'Boot before property not found',
             'docs': {
-              'index': {
-                'description': 'Moes tavern service',
-                'quote': 'Sounds like you\'re having a rough Christmas. You know what I blame this on the breakdown of? Society.'
-              }
+              'description': 'Moes tavern service',
+              'quote': 'Sounds like you\'re having a rough Christmas. You know what I blame this on the breakdown of? Society.'
             },
             'name': 'moes-tavern',
             'nameCamel': 'moesTavern',
@@ -240,7 +226,7 @@ describe('Test gatherer functions', function () {
     const pluginName = 'simpsons-plugin'
     const serviceName = 'krusty-burger'
 
-    const tymlyCorePath = path.resolve(require.resolve('@wmfs/tymly'), '..',)
+    const tymlyCorePath = path.resolve(require.resolve('@wmfs/tymly'), '..')
     const indexContent = path.join(
       tymlyCorePath,
       'plugin',

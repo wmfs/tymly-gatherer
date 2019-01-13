@@ -1,7 +1,7 @@
 {
   "name": "@wmfs/tymly-gatherer",
   "version": "0.0.0-semantically-released",
-  "description": "A package to colled data about Tymly plugins",
+  "description": "A package to collate data about Tymly plugins",
   "author": "West Midlands Fire Service",
   "homepage": "https://github.com/wmfs/tymly-gatherer#readme",
   "keywords": [
@@ -27,6 +27,7 @@
     "dottie": "2.0.1",
     "glob": "7.1.3",
     "glob-promise": "3.4.0",
+    "lodash.orderby": "4.6.0",
     "lodash.camelcase": "4.3.0",
     "lodash.set": "4.3.2",
     "vue-template-compiler": "2.5.21"
