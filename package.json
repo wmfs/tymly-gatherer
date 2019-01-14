@@ -30,7 +30,7 @@
     "lodash.orderby": "4.6.0",
     "lodash.camelcase": "4.3.0",
     "lodash.set": "4.3.2",
-    "vue-template-compiler": "2.5.21"
+    "vue-template-compiler": "2.5.22"
   },
   "devDependencies": {
     "chai": "4.2.0",
