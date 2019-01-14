@@ -102,7 +102,7 @@ describe('Test gatherer functions', function () {
             'nameCamel': 'moesTavern',
             'pluginName': 'simpsons-plugin',
             'refProperties': 'Ref properties not found',
-            'schema': 'Schema not found'
+            'schema': 'Service Schema not found'
           }
         )
       }
