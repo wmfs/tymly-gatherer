@@ -1,3 +1,24 @@
+# [1.6.0](https://github.com/wmfs/tymly-gatherer/compare/v1.5.0...v1.6.0) (2019-01-14)
+
+
+### ✨ Features
+
+* append apiDocs onto collected obj instead of write to file ([980d1ae](https://github.com/wmfs/tymly-gatherer/commit/980d1ae))
+* Beginnings of auto-doc generation. ([6df5d71](https://github.com/wmfs/tymly-gatherer/commit/6df5d71))
+* Make more portable. ([21faa21](https://github.com/wmfs/tymly-gatherer/commit/21faa21))
+
+
+### 🐛 Bug Fixes
+
+* fix carriage returns ([1036c18](https://github.com/wmfs/tymly-gatherer/commit/1036c18))
+
+
+### 🚨 Tests
+
+* align test expects ([4c74750](https://github.com/wmfs/tymly-gatherer/commit/4c74750))
+* improve messages and tests ([3cd5379](https://github.com/wmfs/tymly-gatherer/commit/3cd5379))
+* race conditions for expects? ([7c7a4e9](https://github.com/wmfs/tymly-gatherer/commit/7c7a4e9))
+
 # [1.5.0](https://github.com/wmfs/tymly-gatherer/compare/v1.4.0...v1.5.0) (2019-01-10)
 
 
