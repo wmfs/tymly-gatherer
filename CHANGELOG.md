@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/wmfs/tymly-gatherer/compare/v1.6.0...v1.7.0) (2019-01-20)
+
+
+### ✨ Features
+
+* Remove markdown-formatting and Documentation.js (Vue conflicts). ([541de4b](https://github.com/wmfs/tymly-gatherer/commit/541de4b))
+
 # [1.6.0](https://github.com/wmfs/tymly-gatherer/compare/v1.5.0...v1.6.0) (2019-01-14)
 
 
