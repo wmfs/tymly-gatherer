@@ -1,3 +1,18 @@
+# [1.8.0](https://github.com/wmfs/tymly-gatherer/compare/v1.7.0...v1.8.0) (2019-02-08)
+
+
+### ✨ Features
+
+* Expose Cardscript manifest/examples via methods. ([8f89d5c](https://github.com/wmfs/tymly-gatherer/commit/8f89d5c))
+* Use cardscript-schema/examples to collate Cardscript info. ([c3b6caf](https://github.com/wmfs/tymly-gatherer/commit/c3b6caf))
+
+
+### 🛠 Builds
+
+* **deps:** Update cardscript-schema, cardscript-examples versions ([8d5145f](https://github.com/wmfs/tymly-gatherer/commit/8d5145f))
+* **deps:** update debug requirement from 4.1.0 to 4.1.1 ([4571424](https://github.com/wmfs/tymly-gatherer/commit/4571424))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([a74eb0d](https://github.com/wmfs/tymly-gatherer/commit/a74eb0d))
+
 # [1.7.0](https://github.com/wmfs/tymly-gatherer/compare/v1.6.0...v1.7.0) (2019-01-20)
 
 
