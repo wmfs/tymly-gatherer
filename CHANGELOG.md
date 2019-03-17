@@ -1,3 +1,17 @@
+# [1.9.0](https://github.com/wmfs/tymly-gatherer/compare/v1.8.0...v1.9.0) (2019-03-17)
+
+
+### ✨ Features
+
+* Beginnings of Cardscript JSON-schema/docs refactor. ([5d93c8a](https://github.com/wmfs/tymly-gatherer/commit/5d93c8a))
+* General upgrades to improve Cardscript docs. ([382f0ef](https://github.com/wmfs/tymly-gatherer/commit/382f0ef))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.76.0 to 1.80.3 ([32359e8](https://github.com/wmfs/tymly-gatherer/commit/32359e8))
+* **deps-dev:** update nyc requirement from 13.1.0 to 13.2.0 ([150910b](https://github.com/wmfs/tymly-gatherer/commit/150910b))
+
 # [1.8.0](https://github.com/wmfs/tymly-gatherer/compare/v1.7.0...v1.8.0) (2019-02-08)
 
 
