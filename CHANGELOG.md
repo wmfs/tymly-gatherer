@@ -1,3 +1,18 @@
+# [1.10.0](https://github.com/wmfs/tymly-gatherer/compare/v1.9.0...v1.10.0) (2019-07-02)
+
+
+### 🛠 Builds
+
+* **deps:** update glob requirement from 7.1.3 to 7.1.4 ([5b50df5](https://github.com/wmfs/tymly-gatherer/commit/5b50df5))
+* **deps:** update jsdoc-api requirement from 4.0.3 to 5.0.1 ([067cd67](https://github.com/wmfs/tymly-gatherer/commit/067cd67))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([f2b4b67](https://github.com/wmfs/tymly-gatherer/commit/f2b4b67))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([16c1d86](https://github.com/wmfs/tymly-gatherer/commit/16c1d86))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([51a1ec5](https://github.com/wmfs/tymly-gatherer/commit/51a1ec5))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([7768b0e](https://github.com/wmfs/tymly-gatherer/commit/7768b0e))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([6024028](https://github.com/wmfs/tymly-gatherer/commit/6024028))
+* **deps-dev:** update semantic-release requirement ([29321c1](https://github.com/wmfs/tymly-gatherer/commit/29321c1))
+* **deps-dev:** update semantic-release requirement ([6b17941](https://github.com/wmfs/tymly-gatherer/commit/6b17941))
+
 # [1.9.0](https://github.com/wmfs/tymly-gatherer/compare/v1.8.0...v1.9.0) (2019-03-17)
 
 
