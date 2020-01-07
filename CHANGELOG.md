@@ -1,3 +1,28 @@
+# [1.11.0](https://github.com/wmfs/tymly-gatherer/compare/v1.10.0...v1.11.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** bump jsdoc-api from 5.0.1 to 5.0.4 ([6913d41](https://github.com/wmfs/tymly-gatherer/commit/6913d4199fd5f730b4ab491196ae94dce928df2e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.103.3 to 1.104.0 ([29dbf17](https://github.com/wmfs/tymly-gatherer/commit/29dbf17fff27cfd0f37e4d34c584112bf3e84602))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.104.0 to 1.105.0 ([9657c8d](https://github.com/wmfs/tymly-gatherer/commit/9657c8d007dc6fad8c8204ce43d9b44265c76b7e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.105.0 to 1.106.0 ([a1e7218](https://github.com/wmfs/tymly-gatherer/commit/a1e7218f84fa88bab576d7c8752db19fae09d823))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.106.0 to 1.107.0 ([73e3994](https://github.com/wmfs/tymly-gatherer/commit/73e399418852826c1a46e4c2367d60acf572b383))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([205b8bf](https://github.com/wmfs/tymly-gatherer/commit/205b8bfe56f417c8683676cf17a5b66e098998f2))
+* **deps-dev:** bump packages ([6b12f6d](https://github.com/wmfs/tymly-gatherer/commit/6b12f6d858b4801633729322948eadcbe98eaaa6))
+* **deps-dev:** update nyc requirement from 13.2.0 to 14.1.1 ([3161174](https://github.com/wmfs/tymly-gatherer/commit/3161174d98e43e001ceb97b2f83bc853287e6fc7))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge ([180af8a](https://github.com/wmfs/tymly-gatherer/commit/180af8a7a9da1ef8bdb5bd1fab094b4e12e48a5f))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([f447ca4](https://github.com/wmfs/tymly-gatherer/commit/f447ca49ca1e18f9e9420f65103512368f9628fb))
+* **travis:** Remove Travis config ([4718a92](https://github.com/wmfs/tymly-gatherer/commit/4718a928fb23aab1ede47ab3f2326c1de1cdd36a))
+
 # [1.10.0](https://github.com/wmfs/tymly-gatherer/compare/v1.9.0...v1.10.0) (2019-07-02)
 
 
