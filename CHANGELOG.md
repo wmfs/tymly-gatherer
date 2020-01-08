@@ -1,3 +1,11 @@
+# [1.13.0](https://github.com/wmfs/tymly-gatherer/compare/v1.12.0...v1.13.0) (2020-01-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-schema from 1.5.0 to 1.21.0 ([f4b4738](https://github.com/wmfs/tymly-gatherer/commit/f4b47386e4d680348b3832ad384ba2e71abd358a))
+* **deps:** bump glob from 7.1.4 to 7.1.6 ([1b647f1](https://github.com/wmfs/tymly-gatherer/commit/1b647f12a28c3ca4b39a985306c9629f40019e5d))
+
 # [1.12.0](https://github.com/wmfs/tymly-gatherer/compare/v1.11.0...v1.12.0) (2020-01-08)
 
 
