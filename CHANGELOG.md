@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/wmfs/tymly-gatherer/compare/v1.11.0...v1.12.0) (2020-01-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.1.0 to 1.16.0 ([e6e0230](https://github.com/wmfs/tymly-gatherer/commit/e6e0230e07b29dcb74f3bdb098b576d9e63ec362))
+
 # [1.11.0](https://github.com/wmfs/tymly-gatherer/compare/v1.10.0...v1.11.0) (2020-01-07)
 
 
