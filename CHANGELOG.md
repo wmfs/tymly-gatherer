@@ -1,3 +1,15 @@
+# [1.14.0](https://github.com/wmfs/tymly-gatherer/compare/v1.13.0...v1.14.0) (2020-01-23)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.16.0 to 1.18.0 ([18935ff](https://github.com/wmfs/tymly-gatherer/commit/18935fffb50d1dc1013fa4f51e84c8874cb38b4d))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.107.0 to 1.109.0 ([6cd6717](https://github.com/wmfs/tymly-gatherer/commit/6cd67171d5d0a0f5387efeed69648a728c40181b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.109.0 to 1.110.0 ([b902748](https://github.com/wmfs/tymly-gatherer/commit/b9027480fcac3d7a82a61107acb1e60bad448504))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.110.0 to 1.112.0 ([0447835](https://github.com/wmfs/tymly-gatherer/commit/044783573fc71abf869428974444048a21457f3c))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.112.0 to 1.112.1 ([972fe2b](https://github.com/wmfs/tymly-gatherer/commit/972fe2b808506f4bfda86fcafdf272cc2062fcd5))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([c7f0b07](https://github.com/wmfs/tymly-gatherer/commit/c7f0b07f2033ee849ab20a93e5f445f9f8a2a9fd))
+
 # [1.13.0](https://github.com/wmfs/tymly-gatherer/compare/v1.12.0...v1.13.0) (2020-01-08)
 
 
