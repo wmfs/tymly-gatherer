@@ -1,3 +1,21 @@
+# [1.15.0](https://github.com/wmfs/tymly-gatherer/compare/v1.14.0...v1.15.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump dottie from 2.0.1 to 2.0.2 ([b7b63aa](https://github.com/wmfs/tymly-gatherer/commit/b7b63aa2ea135170c10c7aaf6f9320a26a7a25a9))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.112.1 to 1.113.0 ([24cccd7](https://github.com/wmfs/tymly-gatherer/commit/24cccd728dfe63b2561b2c353a4fa4139f3e12ac))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.113.0 to 1.114.0 ([409d935](https://github.com/wmfs/tymly-gatherer/commit/409d9350b13c649fb4cd4fcaa018666ec76b1a72))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([405aa38](https://github.com/wmfs/tymly-gatherer/commit/405aa38fc04b99b96784c0e075d6b14e7f57bbc7))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([d4e5a29](https://github.com/wmfs/tymly-gatherer/commit/d4e5a29cfcbb97085562a032efaa93fb685a5fce))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([2b780c0](https://github.com/wmfs/tymly-gatherer/commit/2b780c0f6d1006ad3f91ed54b632b89b17b2d0eb))
+
+
+### 💎 Styles
+
+* Do not access Object.prototype method 'hasOwnProperty' from target object ([a361248](https://github.com/wmfs/tymly-gatherer/commit/a3612481a3297046f14af6d177c2a838a7144dc6))
+* standard --fix ([5f1b391](https://github.com/wmfs/tymly-gatherer/commit/5f1b39164ce447721a9b8efea34d687e5547ab9d))
+
 # [1.14.0](https://github.com/wmfs/tymly-gatherer/compare/v1.13.0...v1.14.0) (2020-01-23)
 
 
