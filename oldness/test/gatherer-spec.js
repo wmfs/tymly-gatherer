@@ -33,22 +33,22 @@ describe('test gatherer functions', function () {
     expect(Object.keys(stateResources)).to.eql(['drink-at-moes-tavern', 'eat-at-krusty-burger', 'visit-apu-at-kwik-e-mart'])
 
     expect(stateResources['drink-at-moes-tavern'].example).to.eql({
-      'DrinkAtMoesTavern': {
-        'Type': 'Task',
-        'Resource': 'module:drinkAtMoesTavern',
-        'ResourceConfig': {
-          'duffQuantity': 6
+      DrinkAtMoesTavern: {
+        Type: 'Task',
+        Resource: 'module:drinkAtMoesTavern',
+        ResourceConfig: {
+          duffQuantity: 6
         }
       }
     })
     expect(stateResources['drink-at-moes-tavern'].description).to.eql('Visit Moe\'s for an ice cold Duff')
 
     expect(stateResources['eat-at-krusty-burger'].example).to.eql({
-      'EatAtKrustyBurger': {
-        'Type': 'Task',
-        'Resource': 'module:eatAtKrustyBurger',
-        'ResourceConfig': {
-          'order': [
+      EatAtKrustyBurger: {
+        Type: 'Task',
+        Resource: 'module:eatAtKrustyBurger',
+        ResourceConfig: {
+          order: [
             'Ribwich',
             'Large Fries',
             'Large Soda'
@@ -63,16 +63,16 @@ describe('test gatherer functions', function () {
 
     expect(Object.keys(services)).to.eql(['krusty-burger', 'kwik-e-mart', 'moes-tavern'])
     expect(services['krusty-burger'].index).to.eql({
-      'description': 'Krusty Burger service',
-      'quote': 'I will personally spit into every fiftieth burger!'
+      description: 'Krusty Burger service',
+      quote: 'I will personally spit into every fiftieth burger!'
     })
     expect(services['kwik-e-mart'].index).to.eql({
-      'description': 'kwik-e-mart service',
-      'quote': 'Thank you, come again'
+      description: 'kwik-e-mart service',
+      quote: 'Thank you, come again'
     })
     expect(services['moes-tavern'].index).to.eql({
-      'description': 'Moes tavern service',
-      'quote': 'Sounds like you\'re having a rough Christmas. You know what I blame this on the breakdown of? Society.'
+      description: 'Moes tavern service',
+      quote: 'Sounds like you\'re having a rough Christmas. You know what I blame this on the breakdown of? Society.'
     })
   })
 
@@ -81,16 +81,16 @@ describe('test gatherer functions', function () {
     await gatherer.listServiceSummary(path.join(sourceDir, 'plugins', '*'), summary)
     expect(Object.keys(summary['simpsons-plugin'].services)).to.eql(['krusty-burger', 'kwik-e-mart', 'moes-tavern'])
     expect(summary['simpsons-plugin'].services['krusty-burger'].index).to.eql({
-      'description': 'Krusty Burger service',
-      'quote': 'I will personally spit into every fiftieth burger!'
+      description: 'Krusty Burger service',
+      quote: 'I will personally spit into every fiftieth burger!'
     })
     expect(summary['simpsons-plugin'].services['kwik-e-mart'].index).to.eql({
-      'description': 'kwik-e-mart service',
-      'quote': 'Thank you, come again'
+      description: 'kwik-e-mart service',
+      quote: 'Thank you, come again'
     })
     expect(summary['simpsons-plugin'].services['moes-tavern'].index).to.eql({
-      'description': 'Moes tavern service',
-      'quote': 'Sounds like you\'re having a rough Christmas. You know what I blame this on the breakdown of? Society.'
+      description: 'Moes tavern service',
+      quote: 'Sounds like you\'re having a rough Christmas. You know what I blame this on the breakdown of? Society.'
     })
   })
 
@@ -99,22 +99,22 @@ describe('test gatherer functions', function () {
     await gatherer.listStateResourceSummary(path.join(sourceDir, 'plugins', '*'), summary)
 
     expect(summary['simpsons-plugin'].stateResources['drink-at-moes-tavern'].example).to.eql({
-      'DrinkAtMoesTavern': {
-        'Type': 'Task',
-        'Resource': 'module:drinkAtMoesTavern',
-        'ResourceConfig': {
-          'duffQuantity': 6
+      DrinkAtMoesTavern: {
+        Type: 'Task',
+        Resource: 'module:drinkAtMoesTavern',
+        ResourceConfig: {
+          duffQuantity: 6
         }
       }
     })
     expect(summary['simpsons-plugin'].stateResources['drink-at-moes-tavern'].description).to.eql('Visit Moe\'s for an ice cold Duff')
 
     expect(summary['simpsons-plugin'].stateResources['eat-at-krusty-burger'].example).to.eql({
-      'EatAtKrustyBurger': {
-        'Type': 'Task',
-        'Resource': 'module:eatAtKrustyBurger',
-        'ResourceConfig': {
-          'order': [
+      EatAtKrustyBurger: {
+        Type: 'Task',
+        Resource: 'module:eatAtKrustyBurger',
+        ResourceConfig: {
+          order: [
             'Ribwich',
             'Large Fries',
             'Large Soda'

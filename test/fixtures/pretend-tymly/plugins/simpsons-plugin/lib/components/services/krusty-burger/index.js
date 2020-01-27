@@ -33,5 +33,5 @@ class KrustyBurger {
 module.exports = {
   serviceClass: KrustyBurger,
   bootAfter: ['moes-tavern'],
-  schema: { 'schema': 'this could be schema' }
+  schema: { schema: 'this could be schema' }
 }
