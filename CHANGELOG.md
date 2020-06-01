@@ -1,3 +1,31 @@
+# [1.17.0](https://github.com/wmfs/tymly-gatherer/compare/v1.16.0...v1.17.0) (2020-06-01)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-examples from 1.18.0 to 1.19.0 ([b3f3855](https://github.com/wmfs/tymly-gatherer/commit/b3f3855e27c0ee2704b1887beee27e1bb00124cf))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.135.0 to 1.135.1 ([f9ade7e](https://github.com/wmfs/tymly-gatherer/commit/f9ade7e05c901bbd373ef16242612d449eb48bec))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.135.1 to 1.135.2 ([faec20f](https://github.com/wmfs/tymly-gatherer/commit/faec20fb2c454a932b2a1eecd03a6a7da54e482c))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.135.2 to 1.136.0 ([ec1be77](https://github.com/wmfs/tymly-gatherer/commit/ec1be77013b18304f87e57c55eb22e0356d6dfe8))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.136.0 to 1.137.0 ([059aa4c](https://github.com/wmfs/tymly-gatherer/commit/059aa4c114008a9b4c31aacf28e849bb3cba2a95))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.0 to 1.137.1 ([446ab9d](https://github.com/wmfs/tymly-gatherer/commit/446ab9d0961024dd02b9421109fa2482777e1fe9))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.1 to 1.137.2 ([0e14b91](https://github.com/wmfs/tymly-gatherer/commit/0e14b910709508fa0bd086221fa6bed8243a60f9))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.2 to 1.137.3 ([44011ae](https://github.com/wmfs/tymly-gatherer/commit/44011ae93dbe5d20c651ad9d05481330079a02cc))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.3 to 1.138.0 ([7172614](https://github.com/wmfs/tymly-gatherer/commit/71726142e988dd41deeb6400348ee977f99136e3))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.138.0 to 1.140.0 ([50496b1](https://github.com/wmfs/tymly-gatherer/commit/50496b14b516bcfa36c778f3447efc190fbff841))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.140.0 to 1.141.0 ([1d3bc53](https://github.com/wmfs/tymly-gatherer/commit/1d3bc530fc4143491f677c5474dc222232b73e75))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.141.0 to 1.142.0 ([ff26df3](https://github.com/wmfs/tymly-gatherer/commit/ff26df3e96165b277d727384bf8a9d63739f5a5a))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.142.0 to 1.143.0 ([57f1ce8](https://github.com/wmfs/tymly-gatherer/commit/57f1ce8ce15b367ba25f12f32b7d7d16cb6d91e3))
+* **deps-dev:** bump codecov from 3.6.5 to 3.7.0 ([7551c1e](https://github.com/wmfs/tymly-gatherer/commit/7551c1e46327beffac74e866061a4cf354dbbf75))
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([d6c2865](https://github.com/wmfs/tymly-gatherer/commit/d6c2865d2bce1a945ac4af3736f0039d80c06878))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([5fbaf91](https://github.com/wmfs/tymly-gatherer/commit/5fbaf91754c8f26bd96df1018816fa6531faab52))
+* **deps-dev:** bump mocha from 7.1.2 to 7.2.0 ([a30ec49](https://github.com/wmfs/tymly-gatherer/commit/a30ec49be68f83d20f88bc05beec62fcdc6fedb4))
+* **deps-dev:** bump nyc from 15.0.1 to 15.1.0 ([5b4493a](https://github.com/wmfs/tymly-gatherer/commit/5b4493ab61baf2b5639c6bfbfca17e94a6eeba5a))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.6 ([5ccb548](https://github.com/wmfs/tymly-gatherer/commit/5ccb548031258c2979ee73fca81e2db95921df46))
+* **deps-dev:** bump semantic-release from 17.0.6 to 17.0.7 ([62978b9](https://github.com/wmfs/tymly-gatherer/commit/62978b9f40c8038958766b4b58efc104f411238f))
+* **deps-dev:** bump semantic-release from 17.0.7 to 17.0.8 ([be47e8c](https://github.com/wmfs/tymly-gatherer/commit/be47e8cc7f205e1844d33fd70bba8e6cb2b67488))
+* **deps-dev:** bump standard from 14.3.3 to 14.3.4 ([5ddf9b9](https://github.com/wmfs/tymly-gatherer/commit/5ddf9b94a9aa45ee2f2ae04b1c8d9c749a150d03))
+
 # [1.16.0](https://github.com/wmfs/tymly-gatherer/compare/v1.15.0...v1.16.0) (2020-04-08)
 
 
