@@ -3,7 +3,7 @@ jobs:
   test:
     docker:
       # use node:lts
-      - image: circleci/node:lts
+      - image: cimg/node:lts
         environment:
            TZ: "Europe/London"
            PLUGINS_PATH: "./test/fixtures/plugins/*"
@@ -22,7 +22,7 @@ jobs:
   release:
     docker:
     # use node:lts
-    - image: circleci/node:lts
+    - image: cimg/node:lts
       environment:
         TZ: "Europe/London"
         PLUGINS_PATH: "./test/fixtures/plugins/*"
