@@ -1,3 +1,25 @@
+# [1.18.0](https://github.com/wmfs/tymly-gatherer/compare/v1.17.0...v1.18.0) (2020-07-16)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-schema from 1.22.0 to 1.23.0 ([e6e1e68](https://github.com/wmfs/tymly-gatherer/commit/e6e1e687de87a3606a6cbe9977e82f55d107e77b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.143.0 to 1.144.0 ([0396ba4](https://github.com/wmfs/tymly-gatherer/commit/0396ba4a16b4e1514815d8f357015f6b9a227290))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.144.0 to 1.145.0 ([fd9b88b](https://github.com/wmfs/tymly-gatherer/commit/fd9b88b4457db457ffb88ffb976a26a5da8824eb))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.145.0 to 1.146.0 ([6e06be6](https://github.com/wmfs/tymly-gatherer/commit/6e06be61af56a408dd139e955886f36adf5a57ee))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.146.0 to 1.147.0 ([d52215d](https://github.com/wmfs/tymly-gatherer/commit/d52215d2910bfcf1fb77f9e822525569fe55b645))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.147.0 to 1.148.0 ([cafd2f7](https://github.com/wmfs/tymly-gatherer/commit/cafd2f7cba03b91c5196ee469836043fc911e697))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.148.0 to 1.149.0 ([4df0a92](https://github.com/wmfs/tymly-gatherer/commit/4df0a92b55520d0586b987925453478792c75b58))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.149.0 to 1.150.0 ([1ab95de](https://github.com/wmfs/tymly-gatherer/commit/1ab95dead696b7da15570049370465bde996f9d3))
+* **deps-dev:** bump mocha from 7.2.0 to 8.0.1 ([9eada08](https://github.com/wmfs/tymly-gatherer/commit/9eada08c0e956906d2422de0c3a689278107dfde))
+* **deps-dev:** bump semantic-release from 17.0.8 to 17.1.0 ([e42d99d](https://github.com/wmfs/tymly-gatherer/commit/e42d99db46de2c0b87a0e59e60d9c9a613f659e7))
+* **deps-dev:** bump semantic-release from 17.1.0 to 17.1.1 ([eb37ae3](https://github.com/wmfs/tymly-gatherer/commit/eb37ae3a5b05981f25e8003c21b433221028561c))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** use updated circle node image [skip ci] ([6393380](https://github.com/wmfs/tymly-gatherer/commit/6393380af8d417c6793049ec590a0dbd976a69e6))
+
 # [1.17.0](https://github.com/wmfs/tymly-gatherer/compare/v1.16.0...v1.17.0) (2020-06-01)
 
 
