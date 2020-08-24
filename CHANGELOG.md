@@ -1,3 +1,24 @@
+# [1.20.0](https://github.com/wmfs/tymly-gatherer/compare/v1.19.0...v1.20.0) (2020-08-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-schema from 1.23.0 to 1.24.0 ([e3536f6](https://github.com/wmfs/tymly-gatherer/commit/e3536f68c1276da02658d3c4dcc9ebd01871ce27))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.150.0 to 1.151.0 ([21a14aa](https://github.com/wmfs/tymly-gatherer/commit/21a14aa42923878017fbdb77ed72972f8c2f4dfa))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.151.0 to 1.153.0 ([5b90233](https://github.com/wmfs/tymly-gatherer/commit/5b90233dc5139f125005296ba8c797129a75d675))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.153.0 to 1.154.0 ([88cff67](https://github.com/wmfs/tymly-gatherer/commit/88cff67208517ebf7daa5a7faa8da63e34a9195d))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.154.0 to 1.156.0 ([831ebb9](https://github.com/wmfs/tymly-gatherer/commit/831ebb9480625de1d1c7b9f0cc1c29a7acc100ed))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.156.0 to 1.157.0 ([8c840a6](https://github.com/wmfs/tymly-gatherer/commit/8c840a6371701f29c2f254ac4ffc74621d051ded))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([c118438](https://github.com/wmfs/tymly-gatherer/commit/c118438c0b78871ea36cba8047edfcbd27fca999))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([ed38a95](https://github.com/wmfs/tymly-gatherer/commit/ed38a9570c99f1679c15f205ba6f26f15a7ff338))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([c98997e](https://github.com/wmfs/tymly-gatherer/commit/c98997ed8b0fae24d27523b8ad184a39a81797a5))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([8c94d75](https://github.com/wmfs/tymly-gatherer/commit/8c94d75a4e5b8e5333b1257d90fd4a424d463ddd))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([6bc7c4d](https://github.com/wmfs/tymly-gatherer/commit/6bc7c4de925ade21689a65b080ddc3440315b8a0))
+
 # [1.19.0](https://github.com/wmfs/tymly-gatherer/compare/v1.18.0...v1.19.0) (2020-07-16)
 
 
