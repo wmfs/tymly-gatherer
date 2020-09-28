@@ -1,3 +1,17 @@
+# [1.21.0](https://github.com/wmfs/tymly-gatherer/compare/v1.20.0...v1.21.0) (2020-09-28)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.1.1 to 4.2.0 ([fa422ea](https://github.com/wmfs/tymly-gatherer/commit/fa422eaddb852c343a1f23129c53efdbd98201af))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.157.0 to 1.159.0 ([2ee791f](https://github.com/wmfs/tymly-gatherer/commit/2ee791fa4b38ef790c5f943a0760a26da58d4935))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.159.0 to 1.160.0 ([47d630e](https://github.com/wmfs/tymly-gatherer/commit/47d630e7e16f205298dc129e5a13d5119dbf875c))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([955badf](https://github.com/wmfs/tymly-gatherer/commit/955badf420ce993e43dbe142d22a0a95ba5fe5be))
+* **deps-dev:** bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([5127a85](https://github.com/wmfs/tymly-gatherer/commit/5127a850938bfbbba311b9d667da53b7be6a2c41))
+* **deps-dev:** bump mocha from 8.1.1 to 8.1.2 ([8d33f50](https://github.com/wmfs/tymly-gatherer/commit/8d33f5052d435a6dc4d7ad3a29f07078a78606a1))
+* **deps-dev:** bump mocha from 8.1.2 to 8.1.3 ([7ab5252](https://github.com/wmfs/tymly-gatherer/commit/7ab525236d3431543167088996105f8d9041af60))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([9c6479e](https://github.com/wmfs/tymly-gatherer/commit/9c6479ea7a5b9721622467ad0e76c7d19266e50e))
+
 # [1.20.0](https://github.com/wmfs/tymly-gatherer/compare/v1.19.0...v1.20.0) (2020-08-24)
 
 
