@@ -1,3 +1,15 @@
+# [1.24.0](https://github.com/wmfs/tymly-gatherer/compare/v1.23.0...v1.24.0) (2021-01-12)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/cardscript-schema from 1.25.0 to 1.26.0 ([4d59dbf](https://github.com/wmfs/tymly-gatherer/commit/4d59dbf9f6a12db0996abdfbeada28b618570f2f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.176.1 to 1.177.0 ([2a22d84](https://github.com/wmfs/tymly-gatherer/commit/2a22d84ae2cd83852ae7a79054911c3ae1c123f1))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.177.0 to 1.178.0 ([43fb26b](https://github.com/wmfs/tymly-gatherer/commit/43fb26b5a0a96a6ff40c1ae6563abe5cd3b6b9b8))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.178.0 to 1.179.0 ([04bbba5](https://github.com/wmfs/tymly-gatherer/commit/04bbba5092393419a35a06c9dccf551732a81f33))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.179.0 to 1.180.0 ([2552635](https://github.com/wmfs/tymly-gatherer/commit/2552635aaea6ce53789e18e7c71af7eff5335abb))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.180.0 to 1.181.0 ([f1666cb](https://github.com/wmfs/tymly-gatherer/commit/f1666cbe23abd1189b80d8237eb4b7d7e1350dff))
+
 # [1.23.0](https://github.com/wmfs/tymly-gatherer/compare/v1.22.0...v1.23.0) (2021-01-05)
 
 
