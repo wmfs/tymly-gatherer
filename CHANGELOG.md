@@ -1,3 +1,24 @@
+# [1.26.0](https://github.com/wmfs/tymly-gatherer/compare/v1.25.0...v1.26.0) (2021-02-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump glob-promise from 3.4.0 to 4.0.1 ([1661538](https://github.com/wmfs/tymly-gatherer/commit/1661538e93b8964d63582f1e3b8b559faba9aa25))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.184.0 to 1.185.0 ([af1f726](https://github.com/wmfs/tymly-gatherer/commit/af1f72691e2ff1af56c395ff9bcc6b3f32d53aa7))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.185.0 to 1.186.0 ([ca939de](https://github.com/wmfs/tymly-gatherer/commit/ca939de649a511f883537e4bad7f9893d036e1b8))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.186.0 to 1.187.0 ([d70a6d7](https://github.com/wmfs/tymly-gatherer/commit/d70a6d75957553f287cef9d32345246854b3c18e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.187.0 to 1.188.0 ([a7a8cc5](https://github.com/wmfs/tymly-gatherer/commit/a7a8cc53bfe1cad3e3bf6f178c529f72d0e3e682))
+* **deps-dev:** bump chai from 4.2.0 to 4.3.0 ([4aad64b](https://github.com/wmfs/tymly-gatherer/commit/4aad64b5e4d4e76e0111880eb7bd44f46276023a))
+* **deps-dev:** bump mocha from 8.2.1 to 8.3.0 ([aa57a15](https://github.com/wmfs/tymly-gatherer/commit/aa57a1571136ebc10f42e9f7ece27fd1a96bf841))
+* **deps-dev:** bump semantic-release from 17.3.1 to 17.3.2 ([8e31a75](https://github.com/wmfs/tymly-gatherer/commit/8e31a754220b085d570b9d84e00dd8af732cc049))
+* **deps-dev:** bump semantic-release from 17.3.2 to 17.3.3 ([30dbaf3](https://github.com/wmfs/tymly-gatherer/commit/30dbaf317305d67099875724ff5211d0ffb9d27c))
+* **deps-dev:** bump semantic-release from 17.3.3 to 17.3.4 ([51c3f91](https://github.com/wmfs/tymly-gatherer/commit/51c3f912a5b8dd9a417b89b0065aaad1ec839f39))
+* **deps-dev:** bump semantic-release from 17.3.4 to 17.3.5 ([d270045](https://github.com/wmfs/tymly-gatherer/commit/d270045a8ea2b22e932ab44242978d3c2891ccf2))
+* **deps-dev:** bump semantic-release from 17.3.5 to 17.3.6 ([0b1990b](https://github.com/wmfs/tymly-gatherer/commit/0b1990b0527ae18c00911e7b13674cc4be93bab0))
+* **deps-dev:** bump semantic-release from 17.3.6 to 17.3.7 ([cb828bc](https://github.com/wmfs/tymly-gatherer/commit/cb828bcf7c5878acd03a1c809d49ed0d59bd3391))
+* **deps-dev:** bump semantic-release from 17.3.7 to 17.3.8 ([4991a99](https://github.com/wmfs/tymly-gatherer/commit/4991a99efb0e3ee918841c51831960da67348251))
+* **deps-dev:** bump semantic-release from 17.3.8 to 17.3.9 ([8ea03c9](https://github.com/wmfs/tymly-gatherer/commit/8ea03c96430dc10a2ff4c7fc7d585306f6832ff7))
+
 # [1.25.0](https://github.com/wmfs/tymly-gatherer/compare/v1.24.0...v1.25.0) (2021-01-12)
 
 
