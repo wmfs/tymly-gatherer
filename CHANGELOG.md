@@ -1,3 +1,19 @@
+# [1.28.0](https://github.com/wmfs/tymly-gatherer/compare/v1.27.0...v1.28.0) (2021-03-05)
+
+
+### 🛠 Builds
+
+* **deps:** bump glob-promise from 4.0.1 to 4.1.0 ([17dc4dc](https://github.com/wmfs/tymly-gatherer/commit/17dc4dc527d26cfede32a18781f11a690be0c802))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.188.0 to 1.189.0 ([abfa8f2](https://github.com/wmfs/tymly-gatherer/commit/abfa8f2c4ce58898838f59d5c3ce176c4a4c6767))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.189.0 to 1.190.0 ([b4cb02a](https://github.com/wmfs/tymly-gatherer/commit/b4cb02a1258185354171571969db683e3debfdea))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.190.0 to 1.191.0 ([2d1878e](https://github.com/wmfs/tymly-gatherer/commit/2d1878ee0ff74b773a2ec14fb2098b43865392d2))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.191.0 to 1.192.0 ([b768e45](https://github.com/wmfs/tymly-gatherer/commit/b768e454b46718678d6033c39df8cbb564f04689))
+* **deps-dev:** bump chai from 4.3.0 to 4.3.1 ([9910836](https://github.com/wmfs/tymly-gatherer/commit/99108368f61081c7fb539819234bc49041a5e8d3))
+* **deps-dev:** bump chai from 4.3.1 to 4.3.2 ([4fa6d40](https://github.com/wmfs/tymly-gatherer/commit/4fa6d409435032af5059a6d1ba615e0815f9608b))
+* **deps-dev:** bump chai from 4.3.2 to 4.3.3 ([ca01c9e](https://github.com/wmfs/tymly-gatherer/commit/ca01c9e8d3a21cfac095a7ea661bcda85338132e))
+* **deps-dev:** bump semantic-release from 17.3.9 to 17.4.0 ([9cbb167](https://github.com/wmfs/tymly-gatherer/commit/9cbb1676787135c1f9f2a3daf3b72983a7b3bee7))
+* **deps-dev:** bump semantic-release from 17.4.0 to 17.4.1 ([0cc35dd](https://github.com/wmfs/tymly-gatherer/commit/0cc35dd07c91420c8a3eaf3e6c1fbc26c3f18dcc))
+
 # [1.27.0](https://github.com/wmfs/tymly-gatherer/compare/v1.26.0...v1.27.0) (2021-02-24)
 
 
