@@ -1,3 +1,10 @@
+# [1.29.0](https://github.com/wmfs/tymly-gatherer/compare/v1.28.0...v1.29.0) (2021-03-05)
+
+
+### 🛠 Builds
+
+* **deps:** bump jsdoc-api from 6.0.0 to 7.0.0 ([a42d0ab](https://github.com/wmfs/tymly-gatherer/commit/a42d0ab0756a947b17d68b576699a310b6d9596e))
+
 # [1.28.0](https://github.com/wmfs/tymly-gatherer/compare/v1.27.0...v1.28.0) (2021-03-05)
 
 
