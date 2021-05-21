@@ -1,3 +1,29 @@
+# [1.31.0](https://github.com/wmfs/tymly-gatherer/compare/v1.30.0...v1.31.0) (2021-05-21)
+
+
+### 🛠 Builds
+
+* **deps:** bump glob from 7.1.6 to 7.1.7 ([de938e1](https://github.com/wmfs/tymly-gatherer/commit/de938e1bd0defd680b9d9788300376add70425cf))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.195.0 to 1.195.1 ([eb0f351](https://github.com/wmfs/tymly-gatherer/commit/eb0f351f4db6bab713fa736df841469b55a83daf))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.195.1 to 1.196.0 ([703ac17](https://github.com/wmfs/tymly-gatherer/commit/703ac17eb9da07072d6e94f658a584067ed12711))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.196.0 to 1.197.0 ([d94bc9f](https://github.com/wmfs/tymly-gatherer/commit/d94bc9fd094d667f36035d69e70e0062be798a28))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.197.0 to 1.198.0 ([ad18dfb](https://github.com/wmfs/tymly-gatherer/commit/ad18dfb2ba3439f014985205a6db5b7d586bd432))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.198.0 to 1.199.0 ([f0b74d0](https://github.com/wmfs/tymly-gatherer/commit/f0b74d0606eb24b2c77dbd91223cb6be5d25ba1d))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.199.0 to 1.200.0 ([efb76c3](https://github.com/wmfs/tymly-gatherer/commit/efb76c38d715ea7d4f3a442f143fc8f0d12c8a4c))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.200.0 to 1.201.0 ([520cb02](https://github.com/wmfs/tymly-gatherer/commit/520cb027a0f664cc62676b4744186027c18f2e03))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.201.0 to 1.202.0 ([6bcc207](https://github.com/wmfs/tymly-gatherer/commit/6bcc20749e22c3a94190f49649f87937f8e8342a))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.202.0 to 1.203.0 ([1a6cf4a](https://github.com/wmfs/tymly-gatherer/commit/1a6cf4a7ceb21d2cda9332ed4bd3dc13606dfe1b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.203.0 to 1.204.0 ([e7f6b1a](https://github.com/wmfs/tymly-gatherer/commit/e7f6b1a9e7c2668f70ae0b43c28941f55d440622))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.204.0 to 1.205.0 ([69d93ff](https://github.com/wmfs/tymly-gatherer/commit/69d93ff2a6e112f4e2051bb3ef60860f3233bf98))
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([d5683ef](https://github.com/wmfs/tymly-gatherer/commit/d5683efbba283518f8b3244279053dcba9ffc62c))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([bbbdd56](https://github.com/wmfs/tymly-gatherer/commit/bbbdd56fd251dbc925879ac0d8dcbf899e9ffdf8))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([e9932a5](https://github.com/wmfs/tymly-gatherer/commit/e9932a5091a0c825035d80b387bcc889078c93bc))
+
+
+### ♻️ Chores
+
+* enable tymly sync ([37144a4](https://github.com/wmfs/tymly-gatherer/commit/37144a4cffdb506a55927e9f7afb92190953865c))
+
 # [1.30.0](https://github.com/wmfs/tymly-gatherer/compare/v1.29.0...v1.30.0) (2021-03-31)
 
 
