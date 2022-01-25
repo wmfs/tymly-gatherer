@@ -1,3 +1,13 @@
+# [1.35.0](https://github.com/wmfs/tymly-gatherer/compare/v1.34.0...v1.35.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.228.0 ([a8f16ae](https://github.com/wmfs/tymly-gatherer/commit/a8f16aec0f5774e58d741c2dc91067b09f8688f7))
+* **deps-dev:** update dependency mocha to v9.2.0 ([848cfde](https://github.com/wmfs/tymly-gatherer/commit/848cfdee446f74c9f0835df5682225fe374f80f4))
+* **deps-dev:** update dependency semantic-release to v19 ([2b2b70a](https://github.com/wmfs/tymly-gatherer/commit/2b2b70a7a3bcc3dcf81d24a03514f58760ba311d))
+* **deps:** update dependency glob-promise to v4.2.2 ([6801d22](https://github.com/wmfs/tymly-gatherer/commit/6801d22c0cd3cd837d184f2431cd1b0bd0ebb311))
+
 # [1.34.0](https://github.com/wmfs/tymly-gatherer/compare/v1.33.0...v1.34.0) (2022-01-24)
 
 
