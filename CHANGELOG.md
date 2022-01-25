@@ -1,3 +1,11 @@
+# [1.37.0](https://github.com/wmfs/tymly-gatherer/compare/v1.36.0...v1.37.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency debug to v4.3.3 ([e4caacc](https://github.com/wmfs/tymly-gatherer/commit/e4caacc39d3f1cbba380b3a9ae653b584f8d9a9d))
+* **deps:** update dependency glob to v7.2.0 ([aa18e2c](https://github.com/wmfs/tymly-gatherer/commit/aa18e2c8a39a9ac5786209da59cd4d8ada82fbdd))
+
 # [1.36.0](https://github.com/wmfs/tymly-gatherer/compare/v1.35.0...v1.36.0) (2022-01-25)
 
 
