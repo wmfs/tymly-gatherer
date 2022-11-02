@@ -1,3 +1,10 @@
+# [1.39.0](https://github.com/wmfs/tymly-gatherer/compare/v1.38.0...v1.39.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency glob to v7.2.3 ([fb78fa8](https://github.com/wmfs/tymly-gatherer/commit/fb78fa83c2a68371eb08220b3b8760b024f01c00))
+
 # [1.38.0](https://github.com/wmfs/tymly-gatherer/compare/v1.37.0...v1.38.0) (2022-11-02)
 
 
