@@ -1,3 +1,10 @@
+# [1.40.0](https://github.com/wmfs/tymly-gatherer/compare/v1.39.0...v1.40.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency debug to v4.3.4 ([52a06bf](https://github.com/wmfs/tymly-gatherer/commit/52a06bfba5ad489f5c9d99aed7d0a8bd906c8c2f))
+
 # [1.39.0](https://github.com/wmfs/tymly-gatherer/compare/v1.38.0...v1.39.0) (2022-11-02)
 
 
