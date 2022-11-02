@@ -1,3 +1,30 @@
+# [1.38.0](https://github.com/wmfs/tymly-gatherer/compare/v1.37.0...v1.38.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.234.0 ([e400dfb](https://github.com/wmfs/tymly-gatherer/commit/e400dfbc9bd37b378e698ad0ec29e98c29b815f9))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.1 ([6f650bd](https://github.com/wmfs/tymly-gatherer/commit/6f650bde5b38c876dcb8d3d07f463d650cac2b39))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.2 ([b29193d](https://github.com/wmfs/tymly-gatherer/commit/b29193d6727773b8f9920a4b820df927072217ee))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.3 ([528c320](https://github.com/wmfs/tymly-gatherer/commit/528c3207eb27c7bfd9ef99f61487aef3710471e2))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.237.0 ([1cf27e7](https://github.com/wmfs/tymly-gatherer/commit/1cf27e7308ea0bf2f2e1eb4f6fd0e6f44c447cdd))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.239.0 ([cc435c1](https://github.com/wmfs/tymly-gatherer/commit/cc435c19c920fc7a3d2a5c5bc7c2a8d9c5d3584f))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.239.1 ([9b97c72](https://github.com/wmfs/tymly-gatherer/commit/9b97c721233be054d315f8cf0243effe9e7cdf39))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.240.0 ([af65515](https://github.com/wmfs/tymly-gatherer/commit/af65515f2dd3b2b285d81469c51ae0338e44b22b))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.242.0 ([b26e03b](https://github.com/wmfs/tymly-gatherer/commit/b26e03ba16ee9c446a62d0f77328471ea1fa8b41))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.243.0 ([803a3d4](https://github.com/wmfs/tymly-gatherer/commit/803a3d402b00f3d4780fe7944b9ccbbd08491bf7))
+* **deps-dev:** update dependency chai to v4.3.5 ([51e6498](https://github.com/wmfs/tymly-gatherer/commit/51e6498f9838ed12d058c24fdfabf33c584e3f99))
+* **deps-dev:** update dependency chai to v4.3.6 ([9c97a8a](https://github.com/wmfs/tymly-gatherer/commit/9c97a8ab8b2918012417116c9c2a8e789071987d))
+* **deps-dev:** update dependency mocha to v10 ([7f9f7c0](https://github.com/wmfs/tymly-gatherer/commit/7f9f7c015352964caf851293a4ff87dc8cf0f15d))
+* **deps-dev:** update dependency mocha to v10.1.0 ([e846dce](https://github.com/wmfs/tymly-gatherer/commit/e846dce0d5276e1778140f525d9ae353f478b190))
+* **deps-dev:** update dependency mocha to v9.2.1 ([ff28889](https://github.com/wmfs/tymly-gatherer/commit/ff2888915b472389a677fa00eb1ee4cd77ffeae7))
+* **deps-dev:** update dependency mocha to v9.2.2 ([0cea810](https://github.com/wmfs/tymly-gatherer/commit/0cea8100d0979e50d5906bb3af537831b8438f8e))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([3e98e39](https://github.com/wmfs/tymly-gatherer/commit/3e98e39228f5345d265b30e82d7330a375af835c))
+* **deps-dev:** update dependency semantic-release to v19.0.4 ([31b5d01](https://github.com/wmfs/tymly-gatherer/commit/31b5d0120c721f993915ad61d5f3ed72952ac722))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([694790a](https://github.com/wmfs/tymly-gatherer/commit/694790af670fd3cbd06d8d4f962b5f94a4bb643a))
+* **deps-dev:** update dependency standard to v17 ([1cab045](https://github.com/wmfs/tymly-gatherer/commit/1cab045b2778c727768952c1c3dd413952ae0e40))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/cardscript-schema to v1.32.0 ([3d65bcc](https://github.com/wmfs/tymly-gatherer/commit/3d65bccf6229134ba1d9443bded7f74ee5147acd))
+
 # [1.37.0](https://github.com/wmfs/tymly-gatherer/compare/v1.36.0...v1.37.0) (2022-01-25)
 
 
