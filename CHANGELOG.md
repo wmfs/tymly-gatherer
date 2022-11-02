@@ -1,3 +1,10 @@
+# [1.42.0](https://github.com/wmfs/tymly-gatherer/compare/v1.41.0...v1.42.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update deps ([e6d8225](https://github.com/wmfs/tymly-gatherer/commit/e6d8225dd5f3a1963b7d8868de1b6df5be68a36e))
+
 # [1.41.0](https://github.com/wmfs/tymly-gatherer/compare/v1.40.0...v1.41.0) (2022-11-02)
 
 
