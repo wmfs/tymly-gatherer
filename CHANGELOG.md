@@ -1,3 +1,10 @@
+# [1.47.0](https://github.com/wmfs/tymly-gatherer/compare/v1.46.0...v1.47.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency jsdoc-api to v8 ([3d7b99e](https://github.com/wmfs/tymly-gatherer/commit/3d7b99ee1271b3376caa4c6268b7b402d2eb5a81))
+
 # [1.46.0](https://github.com/wmfs/tymly-gatherer/compare/v1.45.0...v1.46.0) (2023-03-13)
 
 
