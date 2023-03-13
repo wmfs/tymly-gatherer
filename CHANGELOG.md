@@ -1,3 +1,10 @@
+# [1.46.0](https://github.com/wmfs/tymly-gatherer/compare/v1.45.0...v1.46.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency glob to v8.1.0 ([ee00d34](https://github.com/wmfs/tymly-gatherer/commit/ee00d34447861bab2f4876d8822ff082a822ff1d))
+
 # [1.45.0](https://github.com/wmfs/tymly-gatherer/compare/v1.44.0...v1.45.0) (2023-03-13)
 
 
