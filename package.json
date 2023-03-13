@@ -28,7 +28,7 @@
     "jsdoc-api": "7.2.0",
     "dottie": "2.0.3",
     "glob": "8.1.0",
-    "glob-promise": "5.0.0",
+    "glob-promise": "5.0.1",
     "lodash.orderby": "4.6.0",
     "lodash.camelcase": "4.3.0",
     "lodash.set": "4.3.2"
