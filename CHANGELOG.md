@@ -1,3 +1,10 @@
+# [1.45.0](https://github.com/wmfs/tymly-gatherer/compare/v1.44.0...v1.45.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/cardscript-schema to v1.33.0 ([e628ba9](https://github.com/wmfs/tymly-gatherer/commit/e628ba9a1c5a50a25557c9b8f41dedcda321e5f7))
+
 # [1.44.0](https://github.com/wmfs/tymly-gatherer/compare/v1.43.0...v1.44.0) (2023-03-13)
 
 
