@@ -1,3 +1,24 @@
+# [1.43.0](https://github.com/wmfs/tymly-gatherer/compare/v1.42.0...v1.43.0) (2023-03-13)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.2 ([f89266c](https://github.com/wmfs/tymly-gatherer/commit/f89266c49fe1604cbf47d79814cf7d89edf958ae))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.246.0 ([0099ddd](https://github.com/wmfs/tymly-gatherer/commit/0099ddd2fe729281146d9763ae973d446823be35))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.247.0 ([acf4bba](https://github.com/wmfs/tymly-gatherer/commit/acf4bba5b86aff25249cb560c0ff8b6ae471372b))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.247.1 ([58c7653](https://github.com/wmfs/tymly-gatherer/commit/58c7653d5f7aaaae889eac9cff18d9cf79f24d51))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.248.0 ([7d9a82b](https://github.com/wmfs/tymly-gatherer/commit/7d9a82b76bfee61dd839b07b4fa05d12dd9c4f2b))
+* **deps-dev:** update dependency chai to v4.3.7 ([cd1ab95](https://github.com/wmfs/tymly-gatherer/commit/cd1ab95b6ab734ee3f19ade0f94ab021e0605049))
+* **deps-dev:** update dependency mocha to v10.2.0 ([e3d38e3](https://github.com/wmfs/tymly-gatherer/commit/e3d38e3ff14ed6e43ac71f8f7c7ac563ffd6c450))
+* **deps-dev:** update dependency semantic-release to v20 ([8e5d6c2](https://github.com/wmfs/tymly-gatherer/commit/8e5d6c2ffe1d3fca44a03e819a0210554dda7543))
+* **deps-dev:** update dependency semantic-release to v20.0.1 ([ce83dab](https://github.com/wmfs/tymly-gatherer/commit/ce83dabcf9a167f2e2e12a41e97740d1ec9c8d0f))
+* **deps-dev:** update dependency semantic-release to v20.0.2 ([76f3a57](https://github.com/wmfs/tymly-gatherer/commit/76f3a57320c7b7cd5ea1fe98f1b844c2ecf219f8))
+* **deps-dev:** update dependency semantic-release to v20.0.3 ([f8252f9](https://github.com/wmfs/tymly-gatherer/commit/f8252f93cbee7688bd268f862aeac0f8b87975ff))
+* **deps-dev:** update dependency semantic-release to v20.0.4 ([66f2dd8](https://github.com/wmfs/tymly-gatherer/commit/66f2dd88f9c28ff55bf3f4de3df87cc625787b9d))
+* **deps-dev:** update dependency semantic-release to v20.1.0 ([f16c86e](https://github.com/wmfs/tymly-gatherer/commit/f16c86ef2ab71d5a6983ca13c6f26db30bc7662a))
+* **deps-dev:** update dependency semantic-release to v20.1.1 ([b2c428e](https://github.com/wmfs/tymly-gatherer/commit/b2c428e8655d7b5c2b4effefd96b7e3bd470487f))
+* **deps:** update dependency jsdoc-api to v7.2.0 ([06e5f1f](https://github.com/wmfs/tymly-gatherer/commit/06e5f1fd6e5982e9e2cdc567840e1d7e08f26987))
+
 # [1.42.0](https://github.com/wmfs/tymly-gatherer/compare/v1.41.0...v1.42.0) (2022-11-02)
 
 
