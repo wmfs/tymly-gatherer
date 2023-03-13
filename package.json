@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@wmfs/cardscript-examples": "1.22.0",
-    "@wmfs/cardscript-schema": "1.32.0",
+    "@wmfs/cardscript-schema": "1.33.0",
     "debug": "4.3.4",
     "jsdoc-api": "7.2.0",
     "dottie": "2.0.3",
