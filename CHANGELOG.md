@@ -1,3 +1,10 @@
+# [1.49.0](https://github.com/wmfs/tymly-gatherer/compare/v1.48.0...v1.49.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency dottie to v2.0.6 ([1131f0f](https://github.com/wmfs/tymly-gatherer/commit/1131f0f53a2d2ba0766421312e93f6dadc9eb714))
+
 # [1.48.0](https://github.com/wmfs/tymly-gatherer/compare/v1.47.0...v1.48.0) (2023-06-20)
 
 
