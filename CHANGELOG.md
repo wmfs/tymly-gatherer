@@ -1,3 +1,19 @@
+# [1.48.0](https://github.com/wmfs/tymly-gatherer/compare/v1.47.0...v1.48.0) (2023-06-20)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6.0.3 ([b0f0f8f](https://github.com/wmfs/tymly-gatherer/commit/b0f0f8fd0bad0c85b71d2da42770ad99b42e4024))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.256.0 ([ec575e3](https://github.com/wmfs/tymly-gatherer/commit/ec575e3e0f1590aa37dca03583eccdb10905c695))
+* **deps-dev:** update dependency semantic-release to v20.1.3 ([9537cf4](https://github.com/wmfs/tymly-gatherer/commit/9537cf406d88d9a9f1cd5c52288bf4b075deca35))
+* **deps-dev:** update dependency semantic-release to v21 ([ae13930](https://github.com/wmfs/tymly-gatherer/commit/ae139309546a9e13ea21722c45930ac6eb17f5e9))
+* **deps-dev:** update dependency semantic-release to v21.0.1 ([37e509b](https://github.com/wmfs/tymly-gatherer/commit/37e509bf69a6ca31c1f2e2d3c534d3e2397d2d94))
+* **deps-dev:** update dependency semantic-release to v21.0.2 ([281c5ec](https://github.com/wmfs/tymly-gatherer/commit/281c5ec5ae27b1248752c5405909e0c7107e4ccd))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([98fee25](https://github.com/wmfs/tymly-gatherer/commit/98fee25dca8067aca273cf89fa21168fc80a9b5e))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([575ea71](https://github.com/wmfs/tymly-gatherer/commit/575ea71851d1867dda6108ede170f7ed3d4e87c2))
+* **deps-dev:** update dependency standard to v17.1.0 ([33844cd](https://github.com/wmfs/tymly-gatherer/commit/33844cd6dc5b69e22c6e29223e868522bc959389))
+* **deps:** update dependency dottie to v2.0.4 [security] ([f31a541](https://github.com/wmfs/tymly-gatherer/commit/f31a54172ef94bb0b6570b7ded0d723b37930bb2))
+
 # [1.47.0](https://github.com/wmfs/tymly-gatherer/compare/v1.46.0...v1.47.0) (2023-03-13)
 
 
