@@ -1,3 +1,13 @@
+# [1.50.0](https://github.com/wmfs/tymly-gatherer/compare/v1.49.0...v1.50.0) (2023-07-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.258.0 ([616981e](https://github.com/wmfs/tymly-gatherer/commit/616981ed4e32f9d51c216c1df119496e76393854))
+* **deps-dev:** update dependency semantic-release to v21.0.6 ([523aa6c](https://github.com/wmfs/tymly-gatherer/commit/523aa6c8893afbb30f2dfe876ba9f23cb8a322f5))
+* **deps-dev:** update dependency semantic-release to v21.0.7 ([8ec0fb6](https://github.com/wmfs/tymly-gatherer/commit/8ec0fb615736c112ae2969ec064c5c63d67a0177))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/cardscript-schema to v1.35.0 ([b9f501e](https://github.com/wmfs/tymly-gatherer/commit/b9f501e08fcae56969f5daac2e5e35680f07565b))
+
 # [1.49.0](https://github.com/wmfs/tymly-gatherer/compare/v1.48.0...v1.49.0) (2023-06-20)
 
 
