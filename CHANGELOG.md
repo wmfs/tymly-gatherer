@@ -1,3 +1,19 @@
+## [1.50.1](https://github.com/wmfs/tymly-gatherer/compare/v1.50.0...v1.50.1) (2023-09-07)
+
+
+### 🐛 Bug Fixes
+
+* glob was not returning the correct info on windows ([3d4c6de](https://github.com/wmfs/tymly-gatherer/commit/3d4c6dedf354ed22f8670d4d0f1d458d936f22e3))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.261.0 ([6471440](https://github.com/wmfs/tymly-gatherer/commit/6471440d2991fa5dd6dad5478b905bb774847a6b))
+* **deps-dev:** update dependency chai to v4.3.8 ([beded69](https://github.com/wmfs/tymly-gatherer/commit/beded69ce209f8e7cf886106d8b7319bcb955c42))
+* **deps-dev:** update dependency semantic-release to v21.0.9 ([e09e0e4](https://github.com/wmfs/tymly-gatherer/commit/e09e0e442bb54e623a2cccd78ecfa77956b9d7e7))
+* **deps-dev:** update dependency semantic-release to v21.1.0 ([a21a764](https://github.com/wmfs/tymly-gatherer/commit/a21a764c30fbf3e12f75f51e6b61d8d0acfaa9de))
+* **deps-dev:** update dependency semantic-release to v21.1.1 ([8141b94](https://github.com/wmfs/tymly-gatherer/commit/8141b949b5c085d6271e672faf566cdd08746ed7))
+
 # [1.50.0](https://github.com/wmfs/tymly-gatherer/compare/v1.49.0...v1.50.0) (2023-07-26)
 
 
