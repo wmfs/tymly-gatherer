@@ -27,8 +27,7 @@
     "debug": "4.3.7",
     "jsdoc-api": "9.3.4",
     "dottie": "2.0.6",
-    "glob": "8.1.0",
-    "glob-promise": "5.0.0",
+    "glob": "11.0.0",
     "lodash.orderby": "4.6.0",
     "lodash.camelcase": "4.3.0",
     "lodash.set": "4.3.2"
@@ -44,7 +43,7 @@
     "semantic-release": "24.2.0",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "@wmfs/tymly": "1.266.0",
+    "@wmfs/tymly": "1.277.0",
     "chai-subset": "1.6.0"
   },
   "scripts": {
