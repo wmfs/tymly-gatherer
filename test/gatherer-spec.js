@@ -174,7 +174,7 @@ describe('Test gatherer functions', function () {
       pluginName
     )
     const outputFile = `${serviceName}.md`
-    const apiDocs = gatherer.grabApiDocs(
+    const apiDocs = await gatherer.grabApiDocs(
       indexContent,
       {
         outputDirPath,
@@ -182,6 +182,7 @@ describe('Test gatherer functions', function () {
       },
       messages
     )
+    console.log(apiDocs)
     expect(apiDocs.length).to.be.above(0)
   })
 
@@ -209,7 +210,7 @@ describe('Test gatherer functions', function () {
     )
 
     const outputFile = `${serviceName}.md`
-    const apiDocs = gatherer.grabApiDocs(
+    const apiDocs = await gatherer.grabApiDocs(
       indexContent,
       {
         outputDirPath,
@@ -242,7 +243,7 @@ describe('Test gatherer functions', function () {
       pluginName
     )
     const outputFile = `${serviceName}.md`
-    const apiDocs = gatherer.grabApiDocs(
+    const apiDocs = await gatherer.grabApiDocs(
       indexContent,
       {
         outputDirPath,
