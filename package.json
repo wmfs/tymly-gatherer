@@ -43,7 +43,7 @@
     "semantic-release": "24.2.0",
     "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
-    "@wmfs/tymly": "1.285.0",
+    "@wmfs/tymly": "1.286.0",
     "chai-subset": "1.6.0"
   },
   "scripts": {
