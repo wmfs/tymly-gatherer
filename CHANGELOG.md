@@ -1,3 +1,16 @@
+## [1.57.0](https://github.com/wmfs/tymly-gatherer/compare/v1.56.0...v1.57.0) (2025-01-10)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#531](https://github.com/wmfs/tymly-gatherer/issues/531)) ([e721b89](https://github.com/wmfs/tymly-gatherer/commit/e721b89ec62c0b2a03b3869ea898b27a54f4dc85))
+* **deps-dev:** update dependency @wmfs/tymly to v1.285.0 ([#527](https://github.com/wmfs/tymly-gatherer/issues/527)) ([5b6fd8b](https://github.com/wmfs/tymly-gatherer/commit/5b6fd8b1fba050a9514fc34ca0334262892461ea))
+* **deps-dev:** update dependency @wmfs/tymly to v1.286.0 ([#528](https://github.com/wmfs/tymly-gatherer/issues/528)) ([3a9822f](https://github.com/wmfs/tymly-gatherer/commit/3a9822fb2ac3d9b49a4d534d968b2e09df8d60a5))
+* **deps-dev:** update dependency @wmfs/tymly to v1.287.0 ([#530](https://github.com/wmfs/tymly-gatherer/issues/530)) ([70f6109](https://github.com/wmfs/tymly-gatherer/commit/70f61098298bd509bd7c0f1cb1786a32e017626f))
+* **deps-dev:** update dependency @wmfs/tymly to v1.288.0 ([#532](https://github.com/wmfs/tymly-gatherer/issues/532)) ([2e61ca0](https://github.com/wmfs/tymly-gatherer/commit/2e61ca0d564b83ef0d906dc639d810930d966b73))
+* **deps-dev:** update dependency @wmfs/tymly to v1.289.0 ([#533](https://github.com/wmfs/tymly-gatherer/issues/533)) ([ee35184](https://github.com/wmfs/tymly-gatherer/commit/ee351842528b346346a9fae70133eab3aa40409f))
+* **deps-dev:** update dependency semantic-release to v24.2.1 ([#529](https://github.com/wmfs/tymly-gatherer/issues/529)) ([30df385](https://github.com/wmfs/tymly-gatherer/commit/30df3854120cf81c730a2cf147aa76d4dbc3116c))
+* **deps:** update dependency glob to v11.0.1 ([#535](https://github.com/wmfs/tymly-gatherer/issues/535)) ([3234441](https://github.com/wmfs/tymly-gatherer/commit/323444103fba99ae5d40cdf3bf85f2dff3ace7bc))
+
 # [1.56.0](https://github.com/wmfs/tymly-gatherer/compare/v1.55.0...v1.56.0) (2024-12-09)
 
 # [1.55.0](https://github.com/wmfs/tymly-gatherer/compare/v1.54.0...v1.55.0) (2024-11-04)
