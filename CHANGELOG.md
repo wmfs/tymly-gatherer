@@ -1,3 +1,13 @@
+## [1.59.0](https://github.com/wmfs/tymly-gatherer/compare/v1.58.0...v1.59.0) (2025-02-10)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.291.0 ([#536](https://github.com/wmfs/tymly-gatherer/issues/536)) ([9e76894](https://github.com/wmfs/tymly-gatherer/commit/9e768947d7c054c2abf1865c618b8896f0c815af))
+* **deps-dev:** update dependency @wmfs/tymly to v1.292.0 ([#537](https://github.com/wmfs/tymly-gatherer/issues/537)) ([2dfc47a](https://github.com/wmfs/tymly-gatherer/commit/2dfc47ad6e3fb7566cffcaf116016009cb3883d4))
+* **deps-dev:** update dependency mocha to v11.1.0 ([#538](https://github.com/wmfs/tymly-gatherer/issues/538)) ([630bfee](https://github.com/wmfs/tymly-gatherer/commit/630bfeeab682128d9244c18ed2da01f1d204235d))
+* **deps-dev:** update dependency semantic-release to v24.2.2 ([#540](https://github.com/wmfs/tymly-gatherer/issues/540)) ([d6e15b5](https://github.com/wmfs/tymly-gatherer/commit/d6e15b5c03f0ac7f11d28929a3c85a3961d1d887))
+* **deps:** update dependency @wmfs/cardscript-schema to v1.37.0 ([#539](https://github.com/wmfs/tymly-gatherer/issues/539)) ([f5e9efc](https://github.com/wmfs/tymly-gatherer/commit/f5e9efcbd47469afe364e8ae8b7c6c71d2419fe6))
+
 ## [1.58.0](https://github.com/wmfs/tymly-gatherer/compare/v1.57.0...v1.58.0) (2025-01-10)
 
 ### Build system dependencies :hammer:
