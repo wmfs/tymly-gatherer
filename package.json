@@ -27,7 +27,7 @@
     "debug": "4.4.0",
     "jsdoc-api": "9.3.4",
     "dottie": "2.0.6",
-    "glob": "11.0.1",
+    "glob": "11.0.2",
     "lodash.orderby": "4.6.0",
     "lodash.camelcase": "4.3.0",
     "lodash.set": "4.3.2"
