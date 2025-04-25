@@ -1,3 +1,21 @@
+## [1.60.0](https://github.com/wmfs/tymly-gatherer/compare/v1.59.0...v1.60.0) (2025-04-25)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.294.0 ([#542](https://github.com/wmfs/tymly-gatherer/issues/542)) ([a9cc9f2](https://github.com/wmfs/tymly-gatherer/commit/a9cc9f2ee3ab1653d7e39b314a9a6544db31d5d0))
+* **deps-dev:** update dependency @wmfs/tymly to v1.295.0 ([#543](https://github.com/wmfs/tymly-gatherer/issues/543)) ([79508e0](https://github.com/wmfs/tymly-gatherer/commit/79508e0c3fe01ce890ea94424d199511eea93da6))
+* **deps-dev:** update dependency @wmfs/tymly to v1.296.0 ([#544](https://github.com/wmfs/tymly-gatherer/issues/544)) ([8b1c29e](https://github.com/wmfs/tymly-gatherer/commit/8b1c29e7fd2f6f45dad37f1867b28ab4bdfe2a3b))
+* **deps-dev:** update dependency @wmfs/tymly to v1.297.0 ([#545](https://github.com/wmfs/tymly-gatherer/issues/545)) ([3967b6f](https://github.com/wmfs/tymly-gatherer/commit/3967b6fb5ba818c7615772f99ca43b09f5a01083))
+* **deps-dev:** update dependency @wmfs/tymly to v1.298.0 ([#546](https://github.com/wmfs/tymly-gatherer/issues/546)) ([c988539](https://github.com/wmfs/tymly-gatherer/commit/c9885395bfe7410cd2effa23627bd287c137bc96))
+* **deps-dev:** update dependency @wmfs/tymly to v1.299.0 ([#547](https://github.com/wmfs/tymly-gatherer/issues/547)) ([21d6ac8](https://github.com/wmfs/tymly-gatherer/commit/21d6ac8635e8779a78c5c892d0e2bec69177470a))
+* **deps-dev:** update dependency @wmfs/tymly to v1.300.0 ([#548](https://github.com/wmfs/tymly-gatherer/issues/548)) ([626cef1](https://github.com/wmfs/tymly-gatherer/commit/626cef1c6517ecc78ed675c197c270c439fd87e2))
+* **deps-dev:** update dependency @wmfs/tymly to v1.303.0 ([#549](https://github.com/wmfs/tymly-gatherer/issues/549)) ([2354211](https://github.com/wmfs/tymly-gatherer/commit/23542110f93925dc4c63487e836ebb8f5a8c6c0e))
+* **deps-dev:** update dependency @wmfs/tymly to v1.305.0 ([#550](https://github.com/wmfs/tymly-gatherer/issues/550)) ([51991c4](https://github.com/wmfs/tymly-gatherer/commit/51991c4878256aaae8c2cec23b0b7149250a1419))
+* **deps-dev:** update dependency @wmfs/tymly to v1.306.0 ([#551](https://github.com/wmfs/tymly-gatherer/issues/551)) ([d623e65](https://github.com/wmfs/tymly-gatherer/commit/d623e651e487b610b61cd1fa1e029f1d64a2bc78))
+* **deps-dev:** update dependency @wmfs/tymly to v1.307.0 ([#552](https://github.com/wmfs/tymly-gatherer/issues/552)) ([b9fc76b](https://github.com/wmfs/tymly-gatherer/commit/b9fc76b8ee89777f1826510390a3ffa6c60ae4a5))
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#541](https://github.com/wmfs/tymly-gatherer/issues/541)) ([9e52009](https://github.com/wmfs/tymly-gatherer/commit/9e5200916d8b160a7990b4b0dc565759e1041ba3))
+* **deps:** update dependency glob to v11.0.2 ([#553](https://github.com/wmfs/tymly-gatherer/issues/553)) ([da89f69](https://github.com/wmfs/tymly-gatherer/commit/da89f697b5dee90a1dd2e9713ad85ee1dfdceeab))
+
 ## [1.59.0](https://github.com/wmfs/tymly-gatherer/compare/v1.58.0...v1.59.0) (2025-02-10)
 
 ### Build system dependencies :hammer:
