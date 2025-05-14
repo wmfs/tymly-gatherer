@@ -1,3 +1,11 @@
+## [1.61.0](https://github.com/wmfs/tymly-gatherer/compare/v1.60.0...v1.61.0) (2025-05-14)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.308.0 ([#554](https://github.com/wmfs/tymly-gatherer/issues/554)) ([2f57425](https://github.com/wmfs/tymly-gatherer/commit/2f5742516f493683808769c8ef2c45b25b823830))
+* **deps-dev:** update dependency mocha to v11.2.2 ([#555](https://github.com/wmfs/tymly-gatherer/issues/555)) ([34de78e](https://github.com/wmfs/tymly-gatherer/commit/34de78e380a8cc2579df62a4f2fd687a49fd31bf))
+* **deps:** update dependency debug to v4.4.1 ([#556](https://github.com/wmfs/tymly-gatherer/issues/556)) ([ece30c9](https://github.com/wmfs/tymly-gatherer/commit/ece30c940f45ac76dfff3dec35aaf94d387368db))
+
 ## [1.60.0](https://github.com/wmfs/tymly-gatherer/compare/v1.59.0...v1.60.0) (2025-04-25)
 
 ### Build system dependencies :hammer:
