@@ -1,3 +1,17 @@
+## [1.63.0](https://github.com/wmfs/tymly-gatherer/compare/v1.62.0...v1.63.0) (2025-07-18)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.313.0 ([#571](https://github.com/wmfs/tymly-gatherer/issues/571)) ([62bd376](https://github.com/wmfs/tymly-gatherer/commit/62bd37695f0033abd8c0ac4dc78156917a1131b3))
+* **deps-dev:** update dependency @wmfs/tymly to v1.314.0 ([#573](https://github.com/wmfs/tymly-gatherer/issues/573)) ([17d68e3](https://github.com/wmfs/tymly-gatherer/commit/17d68e3c00a9382287e976e74c250d0701553144))
+* **deps-dev:** update dependency @wmfs/tymly to v1.315.0 ([#575](https://github.com/wmfs/tymly-gatherer/issues/575)) ([72d6853](https://github.com/wmfs/tymly-gatherer/commit/72d685396ff89098f8b345fec322c72ccf14b828))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#572](https://github.com/wmfs/tymly-gatherer/issues/572)) ([df287bf](https://github.com/wmfs/tymly-gatherer/commit/df287bf0d842c9162baa7a89eb0700f6b540b8a9))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#568](https://github.com/wmfs/tymly-gatherer/issues/568)) ([ae31fbc](https://github.com/wmfs/tymly-gatherer/commit/ae31fbc7b95073a098b4fb8b9a23a61646be016c))
+* **deps-dev:** update dependency mocha to v11.7.1 ([#569](https://github.com/wmfs/tymly-gatherer/issues/569)) ([0811d2b](https://github.com/wmfs/tymly-gatherer/commit/0811d2b917a9307940042b2b17d4a8574149db2b))
+* **deps-dev:** update dependency semantic-release to v24.2.6 ([#570](https://github.com/wmfs/tymly-gatherer/issues/570)) ([c600702](https://github.com/wmfs/tymly-gatherer/commit/c600702d15aceee003b5d2a9d2ccffbae61d5fa0))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#574](https://github.com/wmfs/tymly-gatherer/issues/574)) ([da195d0](https://github.com/wmfs/tymly-gatherer/commit/da195d0d1331cf0ca56df4b916190a9c58d3a033))
+* **deps:** update dependency jsdoc-api to v9.3.5 ([#576](https://github.com/wmfs/tymly-gatherer/issues/576)) ([c00b757](https://github.com/wmfs/tymly-gatherer/commit/c00b757eee1656260500901631a3cf31b56cfb84))
+
 ## [1.62.0](https://github.com/wmfs/tymly-gatherer/compare/v1.61.0...v1.62.0) (2025-06-16)
 
 ### Build system dependencies :hammer:
