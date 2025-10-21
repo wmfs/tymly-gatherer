@@ -1,3 +1,19 @@
+## [1.64.0](https://github.com/wmfs/tymly-gatherer/compare/v1.63.0...v1.64.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#579](https://github.com/wmfs/tymly-gatherer/issues/579)) ([e052d03](https://github.com/wmfs/tymly-gatherer/commit/e052d03d74c8d501bc956a9bd0e091760fa97a5b))
+* **deps-dev:** update dependency chai to v6 ([#577](https://github.com/wmfs/tymly-gatherer/issues/577)) ([40c280d](https://github.com/wmfs/tymly-gatherer/commit/40c280d15289c306a900fb994887c160a7ef5063))
+* **deps-dev:** update dependency chai to v6.2.0 ([#583](https://github.com/wmfs/tymly-gatherer/issues/583)) ([b68bd10](https://github.com/wmfs/tymly-gatherer/commit/b68bd10aac3ef06a335e11165d4e8710b4cb6951))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#578](https://github.com/wmfs/tymly-gatherer/issues/578)) ([135f32a](https://github.com/wmfs/tymly-gatherer/commit/135f32a331ae639ba6776189c1e5967476cf5b8a))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#584](https://github.com/wmfs/tymly-gatherer/issues/584)) ([4dac86b](https://github.com/wmfs/tymly-gatherer/commit/4dac86b9217f3b540acd470acc26269c40d8c372))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#585](https://github.com/wmfs/tymly-gatherer/issues/585)) ([3b0b4b2](https://github.com/wmfs/tymly-gatherer/commit/3b0b4b243a3fba4c2ffd20dc43475418995736a7))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#580](https://github.com/wmfs/tymly-gatherer/issues/580)) ([58f47b4](https://github.com/wmfs/tymly-gatherer/commit/58f47b4025faee21e3deab7d154b5e8f11117aaf))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#582](https://github.com/wmfs/tymly-gatherer/issues/582)) ([05f6131](https://github.com/wmfs/tymly-gatherer/commit/05f613120b98d8ad7dfe638589ac576b0b8749b0))
+* **deps-dev:** update dependency semantic-release to v25 ([#586](https://github.com/wmfs/tymly-gatherer/issues/586)) ([ee60b4c](https://github.com/wmfs/tymly-gatherer/commit/ee60b4c61ced0a87e62f71aa1993576dd9664654))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#587](https://github.com/wmfs/tymly-gatherer/issues/587)) ([4666da7](https://github.com/wmfs/tymly-gatherer/commit/4666da73f4df6d1f809a608f8452e6f44523fcec))
+* **deps:** revert chai to non-esm ([fe7a5b0](https://github.com/wmfs/tymly-gatherer/commit/fe7a5b0a08daa6f068a8fe9dcd76af5d2259527b))
+
 ## [1.63.0](https://github.com/wmfs/tymly-gatherer/compare/v1.62.0...v1.63.0) (2025-07-18)
 
 ### Build system dependencies :hammer:
