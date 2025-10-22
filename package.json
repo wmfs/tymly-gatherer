@@ -22,7 +22,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@wmfs/cardscript-examples": "1.22.0",
+    "@wmfs/cardscript-examples": "1.23.0",
     "@wmfs/cardscript-schema": "1.37.0",
     "debug": "4.4.1",
     "jsdoc-api": "9.3.5",
