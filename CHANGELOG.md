@@ -1,3 +1,9 @@
+## [1.66.0](https://github.com/wmfs/tymly-gatherer/compare/v1.65.0...v1.66.0) (2025-11-24)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency glob to v11.1.0 [security] ([#596](https://github.com/wmfs/tymly-gatherer/issues/596)) ([eadc0e5](https://github.com/wmfs/tymly-gatherer/commit/eadc0e5d5b85ff5a53cdcd7d5d5a1733cafb7ab3))
+
 ## [1.65.0](https://github.com/wmfs/tymly-gatherer/compare/v1.64.0...v1.65.0) (2025-11-19)
 
 ### Build system dependencies :hammer:
