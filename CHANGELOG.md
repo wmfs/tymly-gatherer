@@ -1,3 +1,10 @@
+## [1.67.0](https://github.com/wmfs/tymly-gatherer/compare/v1.66.0...v1.67.0) (2025-11-25)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.316.0 ([#598](https://github.com/wmfs/tymly-gatherer/issues/598)) ([0dcdfd8](https://github.com/wmfs/tymly-gatherer/commit/0dcdfd86a002e1194393161dc4c788cad3e9a7e3))
+* **deps:** update dependency @wmfs/cardscript-examples to v1.23.0 ([#589](https://github.com/wmfs/tymly-gatherer/issues/589)) ([a8ccd81](https://github.com/wmfs/tymly-gatherer/commit/a8ccd8164dd64e94041e3db573f6b29581260350))
+
 ## [1.66.0](https://github.com/wmfs/tymly-gatherer/compare/v1.65.0...v1.66.0) (2025-11-24)
 
 ### Build system dependencies :hammer:
