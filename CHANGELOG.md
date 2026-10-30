@@ -1,3 +1,22 @@
+## [1.68.0](https://github.com/wmfs/tymly-gatherer/compare/v1.67.1...v1.68.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([138682b](https://github.com/wmfs/tymly-gatherer/commit/138682b51ea55ad7fe59bc5816b744eb80462e4e))
+* **deps-dev:** update dependency @wmfs/tymly to v1.317.1 ([#625](https://github.com/wmfs/tymly-gatherer/issues/625)) ([478487c](https://github.com/wmfs/tymly-gatherer/commit/478487c0145c78eb01692c8bbbbb8579f1c5d546))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#628](https://github.com/wmfs/tymly-gatherer/issues/628)) ([4e60eb4](https://github.com/wmfs/tymly-gatherer/commit/4e60eb4de813705e6e3dba7f6aed685567b172b9))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#633](https://github.com/wmfs/tymly-gatherer/issues/633)) ([d674f04](https://github.com/wmfs/tymly-gatherer/commit/d674f043c767fdbd2369a7c4ca2bf3722ced12a8))
+* **deps-dev:** update dependency mocha to v12 ([#629](https://github.com/wmfs/tymly-gatherer/issues/629)) ([4ac8f5b](https://github.com/wmfs/tymly-gatherer/commit/4ac8f5b275301445821e15641c6746f183c478a4))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#630](https://github.com/wmfs/tymly-gatherer/issues/630)) ([cd7e0c6](https://github.com/wmfs/tymly-gatherer/commit/cd7e0c6dccd9f74463303e302f3cd4e7314a4ba1))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#631](https://github.com/wmfs/tymly-gatherer/issues/631)) ([8c688f4](https://github.com/wmfs/tymly-gatherer/commit/8c688f4f530bfbbbaf71271a82ee0f2fc9123eeb))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#632](https://github.com/wmfs/tymly-gatherer/issues/632)) ([b1d3132](https://github.com/wmfs/tymly-gatherer/commit/b1d313248ab574cb4a06922eb1f77e28d513a25d))
+* **deps:** update dependency dottie to v2.0.7 [security] ([#603](https://github.com/wmfs/tymly-gatherer/issues/603)) ([af5a765](https://github.com/wmfs/tymly-gatherer/commit/af5a76536c5cb541d48733880530ada928501527))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#636](https://github.com/wmfs/tymly-gatherer/issues/636)) ([84f7285](https://github.com/wmfs/tymly-gatherer/commit/84f72850694c80ef43bb6d1d55942c2cf8d2cc32))
+* use shared renovate preset [sc-34117] ([#634](https://github.com/wmfs/tymly-gatherer/issues/634)) ([e90e6f8](https://github.com/wmfs/tymly-gatherer/commit/e90e6f8f218917399e9f792eac2cf33631c1fe05))
+
 ## [1.67.1](https://github.com/wmfs/tymly-gatherer/compare/v1.67.0...v1.67.1) (2026-08-13)
 
 ## [1.67.0](https://github.com/wmfs/tymly-gatherer/compare/v1.66.0...v1.67.0) (2025-11-25)
