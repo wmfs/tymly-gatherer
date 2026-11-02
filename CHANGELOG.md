@@ -1,3 +1,9 @@
+## [1.70.0](https://github.com/wmfs/tymly-gatherer/compare/v1.69.0...v1.70.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency jsdoc-api to v9.3.6 ([#610](https://github.com/wmfs/tymly-gatherer/issues/610)) ([41fd51c](https://github.com/wmfs/tymly-gatherer/commit/41fd51cd6d7dc332d68ba2f1861665b156cdf607))
+
 ## [1.69.0](https://github.com/wmfs/tymly-gatherer/compare/v1.68.0...v1.69.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
