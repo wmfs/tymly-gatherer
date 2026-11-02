@@ -1,3 +1,9 @@
+## [1.69.0](https://github.com/wmfs/tymly-gatherer/compare/v1.68.0...v1.69.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update [@wmfs](https://github.com/wmfs) packages ([#635](https://github.com/wmfs/tymly-gatherer/issues/635)) ([e04f9e0](https://github.com/wmfs/tymly-gatherer/commit/e04f9e0f83fc29297abdb669849af69bfd2a7394))
+
 ## [1.68.0](https://github.com/wmfs/tymly-gatherer/compare/v1.67.1...v1.68.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
