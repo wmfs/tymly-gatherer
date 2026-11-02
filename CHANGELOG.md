@@ -1,3 +1,9 @@
+## [1.71.0](https://github.com/wmfs/tymly-gatherer/compare/v1.70.0...v1.71.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency lodash.orderby to v4.18.0 ([#608](https://github.com/wmfs/tymly-gatherer/issues/608)) ([146366f](https://github.com/wmfs/tymly-gatherer/commit/146366f8e3ee81ce35c3158263e62d0cb8bcd991))
+
 ## [1.70.0](https://github.com/wmfs/tymly-gatherer/compare/v1.69.0...v1.70.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
