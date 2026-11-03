@@ -1,3 +1,10 @@
+## [1.72.0](https://github.com/wmfs/tymly-gatherer/compare/v1.71.0...v1.72.0) (2026-11-03)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @wmfs/tymly to v1.324.0 ([#638](https://github.com/wmfs/tymly-gatherer/issues/638)) ([c95d07d](https://github.com/wmfs/tymly-gatherer/commit/c95d07dd909436e8a8f5e9bd04c9f08060ac8e03))
+* **deps:** update dependency debug to v4.4.3 ([#581](https://github.com/wmfs/tymly-gatherer/issues/581)) ([acbecfe](https://github.com/wmfs/tymly-gatherer/commit/acbecfe4ebbabecd410e452545d48189155b403e))
+
 ## [1.71.0](https://github.com/wmfs/tymly-gatherer/compare/v1.70.0...v1.71.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
